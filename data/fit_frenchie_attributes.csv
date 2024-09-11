@@ -1,0 +1,1501 @@
+nft_id,Accessories,Background,Body,Eyes,Hat,Mouth
+0,Neck Tattoo,Lavender Dusk Purple,Cream,Normal,Slickback,Sad
+1,Scarf,Spiced Orange,Cream,Normal,Dreads,Drooling
+2,None,Seashell Pink,Black,Normal,Elvis,Sad
+3,Red Bandana,Forest Moss Green,White,Concerned,Headband,Bubble Gum
+4,Scarf,Sunlit Gold,Black,White Shades,No Hat,Surprised
+5,None,Forest Moss Green,Black - Overweight,Concerned,Fire,Toothy
+6,None,Forest Moss Green,Lilac,Red Round Shades,No Hat,Toothy
+7,Scarf,Forest Moss Green,Black - Overweight,Eye Patch,Pirate,Bubble Gum
+8,Bow Tie,Rose Quartz Pink,Black - Overweight,Red Round Shades,Cowboy,Toothy
+9,Scarf,Seashell Pink,Black - Overweight,Drowsy Cyclop,No Hat,Feral
+10,Scarf,Rose Quartz Pink,White,Normal,Bone,Toothy
+11,Neck Tattoo,Spiced Orange,Black,White Round Shades,Devil Horns,Panting
+12,Red Bandana,Forest Moss Green,Cream,Concerned,No Hat,Toothy
+13,Bow Tie,Stormcloud Grey,Tan,Nouns Glasses,Cylinder,Surprised
+14,Red Bandana,Stormcloud Grey,Tan,White Round Shades,Elvis,Feral
+15,Gold Chain,Rose Quartz Pink,Black,Goggles,No Hat,Surprised
+16,Bow Tie,Spiced Orange,Tan,Eye Patch,Headband,Happy
+17,Gold Chain,Seashell Pink,White,Drowsy,Elvis,Toothy
+18,None,Stormcloud Grey,Chocolate,White Round Shades,No Hat,Happy
+19,None,Stormcloud Grey,Black,Normal,Dreads,Drooling
+20,None,Rose Quartz Pink,White,Normal,Elvis,Happy
+21,None,Lavender Dusk Purple,Black - Overweight,Drowsy,Cowboy,Mustache
+22,None,Lavender Dusk Purple,Tan,Normal,Leprechaun,Toothy
+23,Gold Chain,Sunlit Gold,Black - Overweight,Normal,No Hat,Happy
+24,Earrings,Rose Quartz Pink,Black - Overweight,Eye Patch,Sobrero,Bubble Gum
+25,None,Seashell Pink,Black,Laser Eyes,Party Hat,Happy
+26,None,Seashell Pink,Tan - Overweight,Red Round Shades,Top Hat,Sad
+27,Earrings,Midnight Sapphire Blue,Tan,Normal,No Hat,Happy
+28,None,Spiced Orange,Sable,Eye Patch,Devil Horns,Happy
+29,Gold Chain,Spiced Orange,Chocolate,Gold Shades,Cylinder,Happy
+30,Red Bandana,Sunlit Gold,Black,Normal,Top Hat,Feral
+31,None,Stormcloud Grey,Tan,Normal,No Hat,Sad
+32,Red Bandana,Sunlit Gold,Black - Overweight,Eye Patch,Elvis,Happy
+33,Bow Tie,Spiced Orange,Cream,White Shades,Baseball Cap,Toothy
+34,None,Sunlit Gold,Black,White Round Shades,Cylinder,Happy
+35,Bow Tie,Forest Moss Green,White,Concerned,Party Hat,Vampire
+36,Wings,Lavender Dusk Purple,Tan,Laser Eyes,No Hat,Sad
+37,Samurai Sword,Forest Moss Green,Sable,Normal,Cowboy,Vampire
+38,None,Sunlit Gold,Sable,Normal,Headphones,Mustache
+39,Red Bandana,Stormcloud Grey,Tan,White Shades,Cylinder,Vampire
+40,Tie,Forest Moss Green,Black,Nouns Glasses,Elvis,Mustache
+41,Scarf,Rose Quartz Pink,Chocolate,Normal,No Hat,Sad
+42,None,Midnight Sapphire Blue,Tan,Normal,Slickback,Toothy
+43,None,Lavender Dusk Purple,Lilac,Normal,Headband,Toothy
+44,Scarf,Seashell Pink,Tan,Normal,No Hat,Happy
+45,Tie,Stormcloud Grey,Tan - Overweight,Red Shades,No Hat,Mustache
+46,Scarf,Spiced Orange,White,Normal,Headphones,Mustache
+47,Red Bandana,Seashell Pink,Black,Normal,Headphones,Happy
+48,None,Sunlit Gold,Tan,Eye Patch,Cylinder,Vampire
+49,None,Midnight Sapphire Blue,Blue,White Shades,Afro,Bubble Gum
+50,Bow Tie,Rose Quartz Pink,Chocolate,Eye Patch,Slickback,Toothy
+51,Bow Tie,Stormcloud Grey,Blue,White Round Shades,No Hat,Mustache
+52,Tie,Lavender Dusk Purple,Blue,Goggles,No Hat,Happy
+53,Gold Chain,Rose Quartz Pink,Black,White Shades,Pirate,Panting
+54,None,Rose Quartz Pink,Black - Overweight,Drowsy,No Hat,Sad
+55,None,Seashell Pink,Black,Drowsy,Headphones,Sad
+56,None,Seashell Pink,Tan,Drowsy Cyclop,Angel Halo,Happy
+57,Gold Chain,Midnight Sapphire Blue,Black,Normal,No Hat,Mustache
+58,None,Midnight Sapphire Blue,Lilac,Red Shades,Pirate,Happy
+59,None,Sunlit Gold,Tan,Drowsy,Party Hat,Drooling
+60,None,Sunlit Gold,Tan,Normal,No Hat,Vampire
+61,Samurai Sword,"Red, White, and Blue",Sable,White Shades,Party Hat,Feral
+62,None,Sunlit Gold,Sable,Normal,Afro,Happy
+63,None,Midnight Sapphire Blue,Sable,Goggles,Elvis,Happy
+64,Gold Chain,Seashell Pink,Black - Overweight,Drowsy Cyclop,Elvis,Toothy
+65,Scarf,Rose Quartz Pink,Black,Normal,No Hat,Happy
+66,Red Bandana,Midnight Sapphire Blue,Tan - Overweight,Laser Eyes,Afro,Mustache
+67,Gold Chain,Sunlit Gold,Cream,Goggles,Headphones,Vampire
+68,Gold Chain,Rose Quartz Pink,White,Nouns Glasses,Elvis,Panting
+69,Scarf,Forest Moss Green,Blue,White Round Shades,Afro,Happy
+70,None,Rose Quartz Pink,Tan,Normal,Headphones,Feral
+71,Scarf,Midnight Sapphire Blue,Tan - Overweight,Normal,Pirate,Toothy
+72,None,Stormcloud Grey,Black - Overweight,3-D Glasses,No Hat,Surprised
+73,Red Bandana,Forest Moss Green,Black,Concerned,Headphones,Happy
+74,None,Stormcloud Grey,White,Normal,Slickback,Sad
+75,Scarf,Spiced Orange,Black,VR Headset,Wizard,Bubble Gum
+76,None,Midnight Sapphire Blue,Cream,Normal,Slickback,Surprised
+77,Wings,Spiced Orange,Cream,White Shades,Cylinder,Toothy
+78,Scarf,Spiced Orange,Tan,White Round Shades,Elvis,Happy
+79,Bow Tie,Midnight Sapphire Blue,Tan - Overweight,White Shades,Sobrero,Sad
+80,None,Stormcloud Grey,Tan - Overweight,3-D Glasses,Dreads,Sad
+81,None,Midnight Sapphire Blue,Black - Overweight,Nouns Glasses,Party Hat,Toothy
+82,None,Midnight Sapphire Blue,Black,VR Headset,Afro,Happy
+83,None,Lavender Dusk Purple,Chocolate,White Shades,Cylinder,Toothy
+84,None,Sunlit Gold,Tan,Normal,Cylinder,Toothy
+85,None,Sunlit Gold,Cream,Goggles,Napoleon,Happy
+86,Scarf,Spiced Orange,Tan,Nouns Glasses,No Hat,Drooling
+87,Wings,Stormcloud Grey,White,White Round Shades,No Hat,Happy
+88,None,Lavender Dusk Purple,Black,Gold Shades,No Hat,Sad
+89,Gold Chain,Stormcloud Grey,Tan,Normal,Dreads,Surprised
+90,None,Seashell Pink,Black - Overweight,Eye Patch,Napoleon,Toothy
+91,None,Lavender Dusk Purple,Sable,Normal,Elvis,Happy
+92,None,Spiced Orange,Black - Overweight,Normal,Elvis,Surprised
+93,Red Bandana,Forest Moss Green,Lilac,Red Shades,No Hat,Drooling
+94,None,Rose Quartz Pink,Black,Normal,Elvis,Happy
+95,Earrings,Rose Quartz Pink,Black - Overweight,Normal,Sobrero,Toothy
+96,None,Sunlit Gold,Black,Normal,Pirate,Happy
+97,Red Bandana,Sunlit Gold,Black,Drowsy Laser Eyes,Headphones,Panting
+98,None,Sunlit Gold,Tan,Cyclop,Afro,Sad
+99,Scarf,Forest Moss Green,Black,Normal,Headphones,Toothy
+100,Red Bandana,Seashell Pink,Black,Red Round Shades,Cylinder,Mustache
+101,Neck Tattoo,Lavender Dusk Purple,Cream,Goggles,No Hat,Happy
+102,None,Sunlit Gold,Black,White Round Shades,Cylinder,Toothy
+103,Wings,Stormcloud Grey,Cream,Red Shades,Cowboy,Happy
+104,Bow Tie,Lavender Dusk Purple,White,White Round Shades,Sobrero,Happy
+105,Tie,Stormcloud Grey,Black,Red Shades,Afro,Drooling
+106,None,Sunlit Gold,Black - Overweight,White Shades,No Hat,Happy
+107,None,Lavender Dusk Purple,Tan - Overweight,Concerned,Afro,Mustache
+108,Scarf,Spiced Orange,White,Normal,No Hat,Happy
+109,Scarf,Forest Moss Green,Black,Drowsy,Headband,Happy
+110,Tie,Seashell Pink,Black - Overweight,Gold Shades,Headphones,Happy
+111,Red Bandana,Lavender Dusk Purple,Tan - Overweight,Eye Patch,Headphones,Bubble Gum
+112,None,Forest Moss Green,Sable,White Shades,Pirate,Toothy
+113,None,Forest Moss Green,Zombie,Red Round Shades,Pirate,Drooling
+114,Gold Chain,Sunlit Gold,Black,Goggles,No Hat,Sad
+115,Cape,Seashell Pink,Black - Overweight,White Shades,No Hat,Happy
+116,Tie,Stormcloud Grey,Tan - Overweight,White Round Shades,Sobrero,Vampire
+117,Gold Chain,Lavender Dusk Purple,Tan,Red Round Shades,Pirate,Toothy
+118,None,Sunlit Gold,Tan,Normal,Cylinder,Happy
+119,Scarf,Stormcloud Grey,Black - Overweight,Laser Eyes,No Hat,Toothy
+120,Gold Chain,Rose Quartz Pink,Sable,White Round Shades,No Hat,Sad
+121,None,Forest Moss Green,White,White Shades,No Hat,Vampire
+122,None,Stormcloud Grey,Tan,Red Round Shades,No Hat,Panting
+123,Red Bandana,Forest Moss Green,Black,Normal,Cylinder,Toothy
+124,Bow Tie,Forest Moss Green,Black,Red Shades,Elvis,Toothy
+125,None,Stormcloud Grey,Tan - Overweight,Nouns Glasses,Cylinder,Toothy
+126,None,Midnight Sapphire Blue,Black,Drowsy Laser Eyes,Cowboy,Happy
+127,None,Stormcloud Grey,Cream,White Shades,Party Hat,Mustache
+128,Gold Chain,Forest Moss Green,Blue,Normal,No Hat,Feral
+129,Tie,Stormcloud Grey,Tan - Overweight,White Shades,Elvis,Sad
+130,None,Lavender Dusk Purple,Black - Overweight,Eye Patch,Cylinder,Toothy
+131,None,Sunlit Gold,Black,White Round Shades,No Hat,Surprised
+132,Scarf,Sunlit Gold,Tan,Eye Patch,Headband,Bubble Gum
+133,Scarf,Sunlit Gold,Black - Overweight,Red Round Shades,Headphones,Toothy
+134,None,Sunlit Gold,Sable,Red Shades,Sobrero,Happy
+135,None,Seashell Pink,Tan,White Round Shades,Top Hat,Happy
+136,Scarf,Rose Quartz Pink,Black - Overweight,White Shades,No Hat,Happy
+137,Scarf,Midnight Sapphire Blue,White,Nouns Glasses,No Hat,Happy
+138,None,Midnight Sapphire Blue,Tan,White Round Shades,Pirate,Toothy
+139,None,Forest Moss Green,Black,Goggles,Cowboy,Toothy
+140,Gold Chain,Seashell Pink,Black - Overweight,Normal,Afro,Toothy
+141,None,Spiced Orange,Black - Overweight,White Round Shades,Bone,Surprised
+142,Neck Tattoo,Sunlit Gold,Tan - Overweight,Goggles,Cowboy,Surprised
+143,None,Forest Moss Green,Black,White Shades,No Hat,Toothy
+144,Bow Tie,Lavender Dusk Purple,Sable,3-D Glasses,Cowboy,Drooling
+145,Scarf,Lavender Dusk Purple,Black,Drowsy Laser Eyes,Dreads,Sad
+146,Gold Chain,Rose Quartz Pink,Cream,Normal,No Hat,Surprised
+147,Bow Tie,Seashell Pink,Black,Normal,Party Hat,Vampire
+148,Tie,Seashell Pink,Tan - Overweight,3-D Glasses,Sobrero,Happy
+149,Scarf,Sunlit Gold,Tan,White Shades,Slickback,Panting
+150,Gold Chain,Seashell Pink,Tan,Normal,No Hat,Mustache
+151,None,Sunlit Gold,Black,Normal,Headband,Mustache
+152,Neck Tattoo,Sunlit Gold,Black,VR Headset,No Hat,Vampire
+153,Neck Tattoo,Lavender Dusk Purple,Blue,Nouns Glasses,Headband,Toothy
+154,None,Rose Quartz Pink,Black,Goggles,Party Hat,Happy
+155,Sickle,Spiced Orange,Black,White Round Shades,Sobrero,Toothy
+156,Scarf,Spiced Orange,Black - Overweight,White Shades,No Hat,Sad
+157,None,Seashell Pink,Black - Overweight,Goggles,No Hat,Toothy
+158,None,Sunlit Gold,White,Normal,Afro,Surprised
+159,None,Forest Moss Green,Blue,White Shades,Angel Halo,Bubble Gum
+160,Gold Chain,Stormcloud Grey,White,White Shades,Afro,Vampire
+161,Red Bandana,Forest Moss Green,Black,White Shades,Party Hat,Bubble Gum
+162,Gold Chain,Midnight Sapphire Blue,Black,Cyclop,Cowboy,Happy
+163,None,Seashell Pink,Tan - Overweight,White Shades,No Hat,Vampire
+164,Scarf,Sunlit Gold,Tan,Laser Eyes,No Hat,Vampire
+165,Scarf,Lavender Dusk Purple,Black - Overweight,Normal,Slickback,Drooling
+166,Red Bandana,Stormcloud Grey,Zombie,Red Round Shades,Elvis,Panting
+167,Gold Chain,Seashell Pink,Black - Overweight,White Shades,Cowboy,Happy
+168,Sickle,Rose Quartz Pink,Tan,Drowsy,Sobrero,Sad
+169,Wings,Sunlit Gold,Black,Normal,Afro,Happy
+170,None,Spiced Orange,Tan,Red Shades,Cowboy,Happy
+171,None,Seashell Pink,Blue,Goggles,Afro,Panting
+172,Tie,Lavender Dusk Purple,Black,Gold Shades,Pirate,Bubble Gum
+173,None,Outer Space,Tan,Drowsy Laser Eyes,No Hat,Surprised
+174,Gold Chain,Midnight Sapphire Blue,Chocolate,White Round Shades,No Hat,Drooling
+175,None,Midnight Sapphire Blue,Black - Overweight,Normal,Afro,Surprised
+176,Bow Tie,Seashell Pink,Cream,Laser Eyes,No Hat,Happy
+177,Bow Tie,Sunlit Gold,Tan,Normal,Top Hat,Happy
+178,Red Bandana,Midnight Sapphire Blue,Lilac,White Round Shades,No Hat,Feral
+179,Red Bandana,Rose Quartz Pink,Cream,White Shades,Devil Horns,Bubble Gum
+180,Samurai Sword,Outer Space,Black,Normal,Elvis,Happy
+181,Scarf,Stormcloud Grey,Black - Overweight,Red Shades,No Hat,Sad
+182,Neck Tattoo,Spiced Orange,Sable,Red Shades,Pirate,Sad
+183,Gold Chain,Spiced Orange,Cream,Concerned,No Hat,Surprised
+184,None,Midnight Sapphire Blue,Tan,Laser Eyes,Party Hat,Panting
+185,Wings,Rose Quartz Pink,Black - Overweight,Laser Eyes,Napoleon,Toothy
+186,None,Spiced Orange,Black - Overweight,Red Shades,Dreads,Drooling
+187,None,Seashell Pink,Tan,Goggles,Cowboy,Sad
+188,Gold Chain,Rose Quartz Pink,Sable,White Shades,No Hat,Mustache
+189,Red Bandana,Forest Moss Green,Tan,White Round Shades,Pirate,Bubble Gum
+190,Tie,Spiced Orange,Lilac,Red Round Shades,Party Hat,Feral
+191,Tie,Spiced Orange,Lilac,Normal,Pirate,Sad
+192,Gold Chain,Spiced Orange,Lilac,Red Shades,Cowboy,Sad
+193,None,Rose Quartz Pink,Blue,White Round Shades,Baseball Cap,Surprised
+194,None,Lavender Dusk Purple,Black,Goggles,No Hat,Surprised
+195,Bow Tie,Midnight Sapphire Blue,Cream,Red Shades,Pirate,Toothy
+196,Tie,Midnight Sapphire Blue,Lilac,Red Round Shades,Pirate,Feral
+197,None,Sunlit Gold,Black - Overweight,Red Shades,Sobrero,Surprised
+198,Tie,Rose Quartz Pink,Sable,Eye Patch,No Hat,Toothy
+199,None,Lavender Dusk Purple,Black,White Round Shades,Headband,Feral
+200,Cape,Stormcloud Grey,White,Normal,No Hat,Feral
+201,Cape,Sunlit Gold,Lilac,White Shades,Elvis,Mustache
+202,None,Rose Quartz Pink,Cream,Normal,No Hat,Vampire
+203,Bow Tie,Stormcloud Grey,White,White Round Shades,Pirate,Toothy
+204,Neck Tattoo,Rose Quartz Pink,White,Red Shades,Elvis,Vampire
+205,Gold Chain,Midnight Sapphire Blue,Sable,Normal,Top Hat,Toothy
+206,None,Seashell Pink,Tan,Goggles,Headphones,Happy
+207,Tie,Spiced Orange,Black - Overweight,White Shades,Headband,Happy
+208,Wings,Forest Moss Green,Black,Cyclop,No Hat,Surprised
+209,None,Seashell Pink,Sable,Red Round Shades,No Hat,Sad
+210,Scarf,Rose Quartz Pink,Black,Eye Patch,Slickback,Toothy
+211,Scarf,Rose Quartz Pink,Sable,Normal,Angel Halo,Happy
+212,None,Spiced Orange,Blue,White Round Shades,Elvis,Bubble Gum
+213,Neck Tattoo,Lavender Dusk Purple,Tan - Overweight,Cyclop,Elvis,Sad
+214,Tie,Sunlit Gold,Black - Overweight,Normal,Elvis,Feral
+215,Red Bandana,Forest Moss Green,Black - Overweight,Red Round Shades,No Hat,Toothy
+216,None,Lavender Dusk Purple,Black,White Shades,No Hat,Happy
+217,None,Midnight Sapphire Blue,Tan,Normal,Afro,Sad
+218,Bow Tie,Rose Quartz Pink,Black - Overweight,Normal,Cowboy,Toothy
+219,None,Sunlit Gold,Black,Red Shades,No Hat,Toothy
+220,None,Forest Moss Green,Chocolate,Normal,No Hat,Drooling
+221,Bow Tie,Stormcloud Grey,Tan,White Shades,Wizard,Panting
+222,Red Bandana,Sunlit Gold,Black - Overweight,Eye Patch,Headphones,Drooling
+223,None,Midnight Sapphire Blue,Black,Drowsy Laser Eyes,Party Hat,Drooling
+224,Tie,Sunlit Gold,Tan,Goggles,Beret,Happy
+225,Bow Tie,Sunlit Gold,Cream,Eye Patch,No Hat,Sad
+226,Bow Tie,Lavender Dusk Purple,Black,Nouns Glasses,Fire,Mustache
+227,None,Seashell Pink,Tan - Overweight,Nouns Glasses,Pirate,Sad
+228,None,Forest Moss Green,Blue,Red Round Shades,No Hat,Surprised
+229,None,Midnight Sapphire Blue,Tan,Nouns Glasses,No Hat,Panting
+230,Scarf,Forest Moss Green,Black,3-D Glasses,No Hat,Toothy
+231,None,Midnight Sapphire Blue,Zombie,Goggles,Headphones,Vampire
+232,Red Bandana,Lavender Dusk Purple,Sable,Normal,Pirate,Happy
+233,Scarf,Forest Moss Green,Chocolate,White Round Shades,Cylinder,Toothy
+234,None,Sunlit Gold,Black - Overweight,White Shades,Cowboy,Happy
+235,Scarf,Seashell Pink,Tan,Drowsy,No Hat,Toothy
+236,None,Forest Moss Green,Black,White Round Shades,No Hat,Sad
+237,None,Stormcloud Grey,White,Normal,Sobrero,Toothy
+238,Cape,Lavender Dusk Purple,Tan - Overweight,Normal,Pirate,Toothy
+239,None,"Red, White, and Blue",Cream,Normal,Cylinder,Toothy
+240,None,Rose Quartz Pink,Blue,Normal,Slickback,Sad
+241,Tie,Stormcloud Grey,Tan,Normal,Slickback,Vampire
+242,Red Bandana,Midnight Sapphire Blue,Chocolate,Normal,Sobrero,Happy
+243,Red Bandana,Rose Quartz Pink,Black,Cyclop,No Hat,Happy
+244,Gold Chain,Sunlit Gold,Sable,Drowsy,Elvis,Drooling
+245,Bow Tie,Seashell Pink,Black - Overweight,White Round Shades,No Hat,Toothy
+246,Red Bandana,Seashell Pink,Black - Overweight,Red Round Shades,Headband,Panting
+247,Scarf,Rose Quartz Pink,Cream,Goggles,Afro,Surprised
+248,Red Bandana,Midnight Sapphire Blue,White,Normal,Slickback,Sad
+249,None,Seashell Pink,Lilac,Drowsy,No Hat,Sad
+250,Tie,Midnight Sapphire Blue,Black,Normal,Afro,Surprised
+251,Scarf,Seashell Pink,Black,Normal,Leprechaun,Happy
+252,Scarf,Rose Quartz Pink,Blue,Normal,Sobrero,Feral
+253,None,Forest Moss Green,Black,Normal,Slickback,Happy
+254,Bow Tie,Forest Moss Green,Black - Overweight,White Shades,Headphones,Happy
+255,Bow Tie,Midnight Sapphire Blue,Chocolate,White Round Shades,No Hat,Sad
+256,None,Sunlit Gold,Black - Overweight,White Shades,Party Hat,Toothy
+257,None,Lavender Dusk Purple,Black - Overweight,White Shades,Elvis,Surprised
+258,Tie,"Red, White, and Blue",Cream,Nouns Glasses,No Hat,Mustache
+259,Red Bandana,Midnight Sapphire Blue,Black,Goggles,Sobrero,Mustache
+260,Red Bandana,Rose Quartz Pink,Sable,Nouns Glasses,Afro,Toothy
+261,None,Midnight Sapphire Blue,Blue,Goggles,Headphones,Mustache
+262,None,Sunlit Gold,Black - Overweight,White Shades,No Hat,Vampire
+263,None,Spiced Orange,Black,Goggles,Afro,Surprised
+264,Tie,Spiced Orange,Sable,VR Headset,Dreads,Toothy
+265,None,Midnight Sapphire Blue,Black,Normal,No Hat,Surprised
+266,None,Midnight Sapphire Blue,White,Eye Patch,No Hat,Toothy
+267,None,Midnight Sapphire Blue,Tan,White Round Shades,Headband,Toothy
+268,Red Bandana,Lavender Dusk Purple,White,Normal,Sobrero,Mustache
+269,None,Sunlit Gold,Black,Nouns Glasses,No Hat,Vampire
+270,None,Midnight Sapphire Blue,Chocolate,Normal,Cylinder,Toothy
+271,Scarf,Sunlit Gold,Tan - Overweight,White Shades,No Hat,Toothy
+272,None,Stormcloud Grey,Tan - Overweight,Normal,Headphones,Happy
+273,Scarf,Rose Quartz Pink,Tan,White Round Shades,Afro,Panting
+274,Scarf,Stormcloud Grey,Black,Normal,Slickback,Toothy
+275,None,Stormcloud Grey,Tan,White Round Shades,Beret,Mustache
+276,None,Forest Moss Green,Tan,Nouns Glasses,No Hat,Mustache
+277,Sickle,Seashell Pink,Black - Overweight,3-D Glasses,Elvis,Happy
+278,None,Spiced Orange,Black,White Round Shades,Elvis,Sad
+279,Bow Tie,Forest Moss Green,Cream,Gold Shades,Headphones,Surprised
+280,Scarf,Seashell Pink,Black,Gold Shades,Afro,Surprised
+281,None,Rose Quartz Pink,Tan,Drowsy,Fire,Sad
+282,Tie,Midnight Sapphire Blue,Black - Overweight,White Shades,Sobrero,Sad
+283,None,Spiced Orange,Tan,White Shades,Afro,Mustache
+284,None,Sunlit Gold,Tan,White Round Shades,No Hat,Sad
+285,Bow Tie,Seashell Pink,Tan,Normal,No Hat,Toothy
+286,Gold Chain,Lavender Dusk Purple,Black,Laser Eyes,Sobrero,Toothy
+287,Scarf,Lavender Dusk Purple,Black - Overweight,White Shades,Headphones,Happy
+288,Bow Tie,Sunlit Gold,Tan,White Round Shades,No Hat,Toothy
+289,None,Forest Moss Green,Black - Overweight,Normal,Party Hat,Surprised
+290,Gold Chain,Sunlit Gold,Black,White Round Shades,Elvis,Toothy
+291,None,Spiced Orange,Sable,Gold Shades,Party Hat,Panting
+292,Tie,Forest Moss Green,Tan,White Shades,No Hat,Toothy
+293,None,Stormcloud Grey,Black - Overweight,Concerned,Headphones,Toothy
+294,None,Seashell Pink,Tan - Overweight,Normal,Pirate,Feral
+295,Cape,Sunlit Gold,Cream,Goggles,Pirate,Toothy
+296,Bow Tie,Stormcloud Grey,Tan - Overweight,Drowsy,No Hat,Panting
+297,None,Sunlit Gold,Tan,Red Shades,Party Hat,Mustache
+298,Gold Chain,Spiced Orange,Tan - Overweight,Concerned,Slickback,Sad
+299,None,Rose Quartz Pink,Tan - Overweight,Normal,Afro,Bubble Gum
+300,Red Bandana,Lavender Dusk Purple,Black,Eye Patch,Headphones,Toothy
+301,None,Spiced Orange,Tan,Normal,Sobrero,Mustache
+302,None,Seashell Pink,Sable,3-D Glasses,Pirate,Happy
+303,Samurai Sword,Lavender Dusk Purple,Blue,Normal,Slickback,Mustache
+304,Gold Chain,Stormcloud Grey,White,Goggles,Cowboy,Bubble Gum
+305,None,Forest Moss Green,Blue,Red Shades,Wizard,Happy
+306,Scarf,Seashell Pink,Blue,Eye Patch,No Hat,Vampire
+307,Tie,Rose Quartz Pink,Black,Goggles,Cylinder,Drooling
+308,None,Rose Quartz Pink,Tan,Red Round Shades,No Hat,Panting
+309,None,Sunlit Gold,Tan,White Shades,Headband,Mustache
+310,None,Stormcloud Grey,Blue,Drowsy,No Hat,Toothy
+311,Gold Chain,Midnight Sapphire Blue,White,Cyclop,Elvis,Drooling
+312,Scarf,Rose Quartz Pink,Black,Eye Patch,Cowboy,Sad
+313,Scarf,Forest Moss Green,Black,Normal,Slickback,Drooling
+314,Red Bandana,Forest Moss Green,Tan,Red Shades,Cylinder,Surprised
+315,Scarf,Spiced Orange,Chocolate,Red Round Shades,Cylinder,Toothy
+316,Sickle,Spiced Orange,Blue,Normal,No Hat,Drooling
+317,Red Bandana,Midnight Sapphire Blue,Black - Overweight,White Round Shades,No Hat,Drooling
+318,Wings,Seashell Pink,Black - Overweight,White Round Shades,Sobrero,Surprised
+319,None,Lavender Dusk Purple,Tan,White Shades,No Hat,Toothy
+320,None,Sunlit Gold,Black - Overweight,Normal,Pirate,Toothy
+321,Gold Chain,Stormcloud Grey,Black,Normal,Afro,Feral
+322,None,Forest Moss Green,White,Eye Patch,No Hat,Sad
+323,None,Forest Moss Green,Tan - Overweight,Normal,Cylinder,Happy
+324,None,Midnight Sapphire Blue,Cream,Normal,Slickback,Happy
+325,None,Stormcloud Grey,Tan,White Round Shades,Headband,Happy
+326,None,Rose Quartz Pink,Black,Red Round Shades,No Hat,Toothy
+327,None,Midnight Sapphire Blue,Black,Drowsy,Afro,Happy
+328,Scarf,Stormcloud Grey,Blue,Drowsy,Cylinder,Feral
+329,Tie,Lavender Dusk Purple,Chocolate,Normal,Headphones,Bubble Gum
+330,None,Rose Quartz Pink,Blue,White Round Shades,Dreads,Happy
+331,Wings,Spiced Orange,Tan - Overweight,White Round Shades,Sobrero,Happy
+332,Samurai Sword,Midnight Sapphire Blue,Black - Overweight,Red Round Shades,No Hat,Surprised
+333,None,Spiced Orange,Sable,VR Headset,No Hat,Surprised
+334,Scarf,Lavender Dusk Purple,Black,Normal,Pirate,Happy
+335,Tie,Spiced Orange,Black,Cyclop,No Hat,Happy
+336,None,Seashell Pink,Sable,Normal,No Hat,Surprised
+337,None,Sunlit Gold,Black,Red Shades,No Hat,Happy
+338,Gold Chain,Stormcloud Grey,Lilac,Goggles,Wizard,Surprised
+339,None,Sunlit Gold,Lilac,Laser Eyes,No Hat,Happy
+340,Tie,Midnight Sapphire Blue,Black - Overweight,Drowsy,Party Hat,Toothy
+341,Gold Chain,Sunlit Gold,Blue,White Round Shades,Elvis,Happy
+342,None,Midnight Sapphire Blue,Sable,White Shades,Sobrero,Happy
+343,None,Forest Moss Green,Black,Nouns Glasses,Sobrero,Happy
+344,Tie,Midnight Sapphire Blue,Tan - Overweight,Red Shades,Cowboy,Sad
+345,Gold Chain,Sunlit Gold,Black,VR Headset,Cowboy,Sad
+346,Scarf,Rose Quartz Pink,Black - Overweight,White Shades,Cylinder,Surprised
+347,Samurai Sword,Midnight Sapphire Blue,Black - Overweight,Drowsy,Elvis,Drooling
+348,Scarf,Sunlit Gold,Black,Normal,Cowboy,Happy
+349,Scarf,Lavender Dusk Purple,Black - Overweight,White Round Shades,No Hat,Sad
+350,Scarf,Seashell Pink,Sable,Normal,Slickback,Toothy
+351,Scarf,Rose Quartz Pink,Black,Normal,No Hat,Toothy
+352,None,Stormcloud Grey,Black - Overweight,Eye Patch,Headphones,Sad
+353,Red Bandana,Forest Moss Green,Black - Overweight,Eye Patch,Headphones,Happy
+354,None,Lavender Dusk Purple,Black,Drowsy Cyclop,Pirate,Happy
+355,None,Spiced Orange,Sable,Red Shades,Elvis,Surprised
+356,None,Forest Moss Green,Lilac,Normal,No Hat,Happy
+357,Gold Chain,Stormcloud Grey,Chocolate,Eye Patch,No Hat,Toothy
+358,None,Midnight Sapphire Blue,Sable,Concerned,Pirate,Feral
+359,None,Forest Moss Green,Tan,Concerned,Napoleon,Mustache
+360,Scarf,Midnight Sapphire Blue,Tan,VR Headset,Elvis,Happy
+361,None,Spiced Orange,Chocolate,Normal,Cowboy,Sad
+362,Bow Tie,Lavender Dusk Purple,Tan - Overweight,Eye Patch,No Hat,Drooling
+363,Bow Tie,Spiced Orange,Cream,Red Round Shades,No Hat,Surprised
+364,Red Bandana,Seashell Pink,Tan - Overweight,Normal,Leprechaun,Toothy
+365,Earrings,Stormcloud Grey,Sable,Normal,Slickback,Vampire
+366,None,Seashell Pink,Tan,Goggles,Sobrero,Mustache
+367,None,Sunlit Gold,Blue,White Shades,Baseball Cap,Toothy
+368,Red Bandana,Lavender Dusk Purple,Tan,White Shades,Top Hat,Panting
+369,None,Seashell Pink,Black,White Shades,Headphones,Happy
+370,Scarf,Lavender Dusk Purple,Black,Normal,Headphones,Happy
+371,Scarf,Sunlit Gold,Tan - Overweight,Normal,Napoleon,Toothy
+372,Scarf,Lavender Dusk Purple,Tan - Overweight,Normal,No Hat,Sad
+373,None,Midnight Sapphire Blue,Tan - Overweight,3-D Glasses,Party Hat,Feral
+374,None,Midnight Sapphire Blue,Sable,Eye Patch,Party Hat,Toothy
+375,None,Forest Moss Green,Blue,White Round Shades,No Hat,Sad
+376,Scarf,Sunlit Gold,Black,Normal,No Hat,Happy
+377,None,Lavender Dusk Purple,White,Normal,Leprechaun,Vampire
+378,Scarf,Sunlit Gold,Black - Overweight,Normal,Afro,Toothy
+379,None,Sunlit Gold,Black,Eye Patch,Sobrero,Happy
+380,None,Midnight Sapphire Blue,Black,Normal,Sobrero,Drooling
+381,Bow Tie,Stormcloud Grey,Tan,White Shades,Slickback,Vampire
+382,Scarf,Lavender Dusk Purple,Black - Overweight,Laser Eyes,Slickback,Toothy
+383,None,Spiced Orange,Tan,Normal,Elvis,Happy
+384,Bow Tie,Forest Moss Green,Chocolate,Normal,Headband,Vampire
+385,Bow Tie,Lavender Dusk Purple,White,White Shades,No Hat,Panting
+386,Bow Tie,Spiced Orange,Black,Normal,Pirate,Drooling
+387,None,"Red, White, and Blue",Black,White Shades,Sobrero,Happy
+388,None,Rose Quartz Pink,Black,Drowsy,No Hat,Toothy
+389,Tie,Lavender Dusk Purple,Black,Normal,No Hat,Surprised
+390,Neck Tattoo,Spiced Orange,Lilac,Nouns Glasses,Headphones,Mustache
+391,None,Sunlit Gold,Tan,Red Round Shades,Devil Horns,Happy
+392,Samurai Sword,Seashell Pink,Tan,Red Shades,Dreads,Happy
+393,Red Bandana,Midnight Sapphire Blue,Black,White Shades,Elvis,Mustache
+394,Neck Tattoo,Spiced Orange,Black,Eye Patch,Slickback,Vampire
+395,None,Stormcloud Grey,Black - Overweight,White Shades,No Hat,Drooling
+396,Scarf,Lavender Dusk Purple,Lilac,Normal,No Hat,Happy
+397,Bow Tie,Sunlit Gold,Zombie,3-D Glasses,Napoleon,Happy
+398,None,Stormcloud Grey,Black - Overweight,Nouns Glasses,Wizard,Toothy
+399,Red Bandana,Sunlit Gold,Blue,White Shades,No Hat,Toothy
+400,Scarf,Midnight Sapphire Blue,Sable,Normal,No Hat,Mustache
+401,Gold Chain,Spiced Orange,Blue,Red Round Shades,No Hat,Feral
+402,Gold Chain,Lavender Dusk Purple,Black,Normal,No Hat,Surprised
+403,None,Lavender Dusk Purple,Tan - Overweight,White Shades,Elvis,Surprised
+404,Bow Tie,Forest Moss Green,Tan,Normal,Angel Halo,Toothy
+405,None,Sunlit Gold,Black,Normal,No Hat,Bubble Gum
+406,None,"Red, White, and Blue",Tan - Overweight,White Shades,Afro,Toothy
+407,Bow Tie,Spiced Orange,Lilac,Eye Patch,Afro,Sad
+408,Bow Tie,Sunlit Gold,Sable,White Round Shades,Afro,Vampire
+409,None,Spiced Orange,Tan,Red Round Shades,Headphones,Sad
+410,Wings,Lavender Dusk Purple,Tan,Normal,Afro,Surprised
+411,Scarf,Spiced Orange,Cream,3-D Glasses,No Hat,Toothy
+412,None,Spiced Orange,Tan,Eye Patch,No Hat,Sad
+413,Red Bandana,Forest Moss Green,Blue,Eye Patch,No Hat,Happy
+414,None,Sunlit Gold,Black - Overweight,Normal,Cowboy,Toothy
+415,Gold Chain,Spiced Orange,Black - Overweight,White Round Shades,No Hat,Surprised
+416,None,Lavender Dusk Purple,Black - Overweight,Normal,Pirate,Happy
+417,None,Midnight Sapphire Blue,Black - Overweight,White Round Shades,No Hat,Sad
+418,Scarf,Rose Quartz Pink,Tan - Overweight,Red Round Shades,Afro,Toothy
+419,Gold Chain,Spiced Orange,Black,White Round Shades,Bone,Happy
+420,Bow Tie,Spiced Orange,Blue,Gold Shades,No Hat,Happy
+421,None,Rose Quartz Pink,Cream,VR Headset,Wizard,Happy
+422,Bow Tie,Stormcloud Grey,Tan,Normal,No Hat,Vampire
+423,None,Lavender Dusk Purple,Black,Eye Patch,Pirate,Happy
+424,Bow Tie,Forest Moss Green,Black,White Round Shades,No Hat,Surprised
+425,Scarf,Spiced Orange,Black,Normal,Headband,Happy
+426,None,Spiced Orange,White,Eye Patch,Headband,Sad
+427,Earrings,Rose Quartz Pink,Blue,Normal,Party Hat,Surprised
+428,Tie,Stormcloud Grey,Black - Overweight,Normal,No Hat,Toothy
+429,None,Stormcloud Grey,Black,Normal,Headband,Happy
+430,None,Sunlit Gold,White,White Shades,Headband,Toothy
+431,None,Lavender Dusk Purple,Tan,Goggles,Headband,Feral
+432,Bow Tie,Seashell Pink,Blue,Red Shades,Angel Halo,Sad
+433,Tie,Rose Quartz Pink,Sable,White Shades,Cylinder,Toothy
+434,None,Rose Quartz Pink,Black,Nouns Glasses,Party Hat,Sad
+435,Scarf,Rose Quartz Pink,Tan,Normal,Elvis,Happy
+436,Tie,Lavender Dusk Purple,Zombie,Laser Eyes,No Hat,Vampire
+437,None,Midnight Sapphire Blue,Tan,White Shades,Wizard,Happy
+438,None,Seashell Pink,Black - Overweight,White Shades,Fire,Happy
+439,Wings,Spiced Orange,Lilac,Goggles,Headphones,Panting
+440,None,Seashell Pink,Lilac,Normal,Cowboy,Happy
+441,Bow Tie,Lavender Dusk Purple,Black - Overweight,Normal,Party Hat,Happy
+442,Scarf,Forest Moss Green,Tan,Normal,No Hat,Vampire
+443,None,Midnight Sapphire Blue,Black - Overweight,Normal,Cylinder,Mustache
+444,Tie,Rose Quartz Pink,Black,Red Round Shades,No Hat,Panting
+445,None,Lavender Dusk Purple,Black,VR Headset,Party Hat,Happy
+446,None,Sunlit Gold,Lilac,Normal,Pirate,Drooling
+447,None,Midnight Sapphire Blue,Tan - Overweight,Gold Shades,No Hat,Drooling
+448,Gold Chain,Spiced Orange,Black,Normal,No Hat,Surprised
+449,Bow Tie,Forest Moss Green,Blue,Goggles,No Hat,Toothy
+450,Neck Tattoo,Spiced Orange,Cream,Eye Patch,No Hat,Happy
+451,None,Midnight Sapphire Blue,Tan,Red Shades,Headphones,Panting
+452,Neck Tattoo,Lavender Dusk Purple,White,White Round Shades,Elvis,Drooling
+453,Scarf,Midnight Sapphire Blue,Black - Overweight,Normal,Headphones,Sad
+454,None,Midnight Sapphire Blue,Blue,Normal,Cowboy,Bubble Gum
+455,Gold Chain,Seashell Pink,Tan - Overweight,Nouns Glasses,Slickback,Happy
+456,Red Bandana,Lavender Dusk Purple,White,Eye Patch,No Hat,Panting
+457,None,Spiced Orange,Black,Normal,Cowboy,Bubble Gum
+458,None,Rose Quartz Pink,Sable,Red Shades,No Hat,Toothy
+459,Red Bandana,Lavender Dusk Purple,Tan,VR Headset,No Hat,Vampire
+460,Scarf,Forest Moss Green,Tan,Nouns Glasses,Cylinder,Surprised
+461,Scarf,Lavender Dusk Purple,Tan,White Shades,Sobrero,Toothy
+462,None,Forest Moss Green,Black - Overweight,White Shades,Elvis,Happy
+463,Gold Chain,Stormcloud Grey,Black - Overweight,White Shades,No Hat,Drooling
+464,Scarf,Forest Moss Green,Black,Concerned,No Hat,Toothy
+465,Neck Tattoo,Forest Moss Green,Blue,Drowsy Cyclop,No Hat,Bubble Gum
+466,None,Lavender Dusk Purple,Blue,Red Shades,Elvis,Happy
+467,Tie,Rose Quartz Pink,Black,White Shades,No Hat,Surprised
+468,None,Midnight Sapphire Blue,Blue,Red Shades,Cowboy,Mustache
+469,Bow Tie,Midnight Sapphire Blue,Tan,White Round Shades,Angel Halo,Sad
+470,None,Midnight Sapphire Blue,Black - Overweight,Normal,Headphones,Surprised
+471,None,Seashell Pink,Cream,VR Headset,Dreads,Sad
+472,None,Midnight Sapphire Blue,Black,White Round Shades,No Hat,Happy
+473,None,Forest Moss Green,Black - Overweight,Normal,No Hat,Happy
+474,None,Rose Quartz Pink,Black,Red Round Shades,No Hat,Happy
+475,None,Forest Moss Green,Chocolate,Normal,No Hat,Mustache
+476,Gold Chain,Midnight Sapphire Blue,Cream,Gold Shades,No Hat,Surprised
+477,None,Sunlit Gold,Blue,Normal,Pirate,Vampire
+478,None,Lavender Dusk Purple,Cream,Red Shades,No Hat,Feral
+479,Scarf,Sunlit Gold,Lilac,Normal,No Hat,Happy
+480,None,Stormcloud Grey,Tan - Overweight,White Shades,Pirate,Happy
+481,Gold Chain,Midnight Sapphire Blue,Chocolate,Red Round Shades,No Hat,Toothy
+482,Red Bandana,Midnight Sapphire Blue,Black,Drowsy,No Hat,Drooling
+483,Bow Tie,Stormcloud Grey,Black - Overweight,Normal,Pirate,Sad
+484,Bow Tie,Spiced Orange,Black,White Round Shades,Slickback,Sad
+485,None,Rose Quartz Pink,Black - Overweight,Eye Patch,Party Hat,Happy
+486,None,Lavender Dusk Purple,Cream,Eye Patch,No Hat,Sad
+487,None,Forest Moss Green,Lilac,Red Shades,Elvis,Surprised
+488,Gold Chain,Forest Moss Green,Black,Red Shades,No Hat,Toothy
+489,Red Bandana,Sunlit Gold,Black - Overweight,Goggles,Afro,Sad
+490,Scarf,Spiced Orange,Tan - Overweight,Normal,Top Hat,Toothy
+491,Samurai Sword,Rose Quartz Pink,Black,Eye Patch,No Hat,Toothy
+492,Red Bandana,Sunlit Gold,Cream,Nouns Glasses,Slickback,Feral
+493,Cape,Outer Space,Black - Overweight,White Shades,Leprechaun,Sad
+494,None,Lavender Dusk Purple,Tan,Normal,Pirate,Vampire
+495,None,Sunlit Gold,Blue,Red Round Shades,No Hat,Toothy
+496,None,Rose Quartz Pink,Black,Red Round Shades,No Hat,Drooling
+497,Cape,Stormcloud Grey,Blue,Red Shades,Sobrero,Bubble Gum
+498,None,Seashell Pink,Cream,Normal,Baseball Cap,Toothy
+499,None,Seashell Pink,Blue,Red Round Shades,Afro,Mustache
+500,None,Sunlit Gold,Tan,Red Round Shades,Devil Horns,Bubble Gum
+501,Bow Tie,Spiced Orange,Black,Normal,Party Hat,Happy
+502,Bow Tie,Stormcloud Grey,Black,Normal,Cowboy,Surprised
+503,None,Stormcloud Grey,Tan - Overweight,White Round Shades,Wizard,Toothy
+504,Bow Tie,Seashell Pink,Black,Eye Patch,Elvis,Vampire
+505,None,Sunlit Gold,Tan,Red Shades,No Hat,Surprised
+506,Red Bandana,Forest Moss Green,Tan,Goggles,No Hat,Bubble Gum
+507,Red Bandana,Sunlit Gold,Black - Overweight,Goggles,No Hat,Panting
+508,None,Sunlit Gold,Black - Overweight,Eye Patch,No Hat,Happy
+509,Scarf,Lavender Dusk Purple,Black - Overweight,White Shades,Sobrero,Toothy
+510,Tie,Sunlit Gold,White,Normal,Headband,Sad
+511,None,Spiced Orange,Sable,White Round Shades,Elvis,Feral
+512,Bow Tie,Outer Space,Tan - Overweight,Goggles,No Hat,Sad
+513,Red Bandana,Seashell Pink,Black - Overweight,Red Round Shades,Cylinder,Happy
+514,None,Forest Moss Green,White,Eye Patch,Headphones,Happy
+515,Red Bandana,Rose Quartz Pink,Black - Overweight,White Round Shades,No Hat,Happy
+516,Scarf,Forest Moss Green,Cream,Goggles,Cowboy,Toothy
+517,Earrings,Stormcloud Grey,Cream,Normal,No Hat,Happy
+518,Scarf,Midnight Sapphire Blue,Cream,Normal,Leprechaun,Sad
+519,Gold Chain,Rose Quartz Pink,Sable,Eye Patch,Elvis,Mustache
+520,None,Forest Moss Green,Black - Overweight,Normal,No Hat,Toothy
+521,None,Spiced Orange,White,Normal,No Hat,Vampire
+522,None,Seashell Pink,Black,Laser Eyes,No Hat,Bubble Gum
+523,None,Seashell Pink,Sable,Normal,Headphones,Panting
+524,None,Sunlit Gold,Chocolate,Nouns Glasses,Slickback,Panting
+525,None,Rose Quartz Pink,Black - Overweight,White Shades,Headphones,Sad
+526,Red Bandana,Sunlit Gold,Black,Gold Shades,Beret,Happy
+527,Scarf,Seashell Pink,Tan,Normal,Baseball Cap,Toothy
+528,Bow Tie,Stormcloud Grey,Tan,White Shades,Slickback,Feral
+529,None,Lavender Dusk Purple,Black,White Shades,No Hat,Mustache
+530,Samurai Sword,Rose Quartz Pink,Black,Normal,Headband,Toothy
+531,Tie,Lavender Dusk Purple,Lilac,3-D Glasses,Cylinder,Happy
+532,Bow Tie,Stormcloud Grey,Black,Normal,No Hat,Mustache
+533,Bow Tie,Spiced Orange,Black - Overweight,Gold Shades,Party Hat,Happy
+534,Tie,Midnight Sapphire Blue,Tan,Normal,No Hat,Drooling
+535,None,Rose Quartz Pink,Tan - Overweight,Normal,No Hat,Happy
+536,Tie,Forest Moss Green,Black - Overweight,Normal,Cowboy,Drooling
+537,Scarf,Midnight Sapphire Blue,Tan,White Round Shades,Sobrero,Toothy
+538,Gold Chain,Rose Quartz Pink,Black,White Round Shades,Sobrero,Drooling
+539,None,Spiced Orange,Lilac,Red Round Shades,Cowboy,Toothy
+540,None,Stormcloud Grey,Black,Red Round Shades,No Hat,Surprised
+541,None,Rose Quartz Pink,White,Normal,Afro,Drooling
+542,Gold Chain,Stormcloud Grey,Sable,White Shades,No Hat,Toothy
+543,Tie,Stormcloud Grey,Blue,Normal,Headband,Drooling
+544,Cape,Lavender Dusk Purple,Chocolate,Normal,Party Hat,Panting
+545,Wings,Midnight Sapphire Blue,Lilac,Goggles,Afro,Toothy
+546,None,"Red, White, and Blue",Black - Overweight,Red Round Shades,Elvis,Happy
+547,None,Midnight Sapphire Blue,Black - Overweight,Concerned,Pirate,Mustache
+548,Tie,Rose Quartz Pink,Black,Red Round Shades,Cylinder,Mustache
+549,Red Bandana,Spiced Orange,Black,3-D Glasses,Leprechaun,Toothy
+550,Gold Chain,Lavender Dusk Purple,Black,Normal,Elvis,Sad
+551,None,Sunlit Gold,Black - Overweight,White Round Shades,Cowboy,Surprised
+552,Gold Chain,Midnight Sapphire Blue,Tan,Normal,Cowboy,Sad
+553,Scarf,"Red, White, and Blue",Black,Goggles,Elvis,Happy
+554,None,Spiced Orange,Black - Overweight,Goggles,Slickback,Vampire
+555,Scarf,Rose Quartz Pink,Tan,White Round Shades,Afro,Surprised
+556,Scarf,Forest Moss Green,Black - Overweight,Normal,Elvis,Happy
+557,Scarf,Lavender Dusk Purple,Black,White Round Shades,Elvis,Sad
+558,None,Outer Space,Tan,White Shades,Headband,Surprised
+559,Wings,Sunlit Gold,Sable,Drowsy Cyclop,Angel Halo,Toothy
+560,Bow Tie,Seashell Pink,Black,Goggles,No Hat,Happy
+561,Bow Tie,Sunlit Gold,Black - Overweight,Red Shades,Cowboy,Happy
+562,None,Forest Moss Green,Tan,White Round Shades,No Hat,Surprised
+563,None,Midnight Sapphire Blue,Zombie,Normal,No Hat,Surprised
+564,Red Bandana,Lavender Dusk Purple,Sable,Normal,Sobrero,Toothy
+565,Scarf,Seashell Pink,Chocolate,Red Shades,Wizard,Bubble Gum
+566,Gold Chain,Lavender Dusk Purple,Black,Goggles,Dreads,Vampire
+567,None,Forest Moss Green,Black - Overweight,Normal,Afro,Vampire
+568,Samurai Sword,Forest Moss Green,Black,White Round Shades,Bone,Feral
+569,Scarf,Rose Quartz Pink,Tan - Overweight,3-D Glasses,Cylinder,Surprised
+570,Tie,Seashell Pink,Black,Red Shades,Party Hat,Feral
+571,None,Seashell Pink,Black - Overweight,Goggles,Sobrero,Happy
+572,Red Bandana,Sunlit Gold,Sable,White Shades,No Hat,Toothy
+573,None,Lavender Dusk Purple,Black,White Round Shades,Headphones,Feral
+574,Red Bandana,Seashell Pink,Black - Overweight,White Shades,Fire,Happy
+575,Red Bandana,Stormcloud Grey,Tan,Normal,Cylinder,Sad
+576,None,Spiced Orange,Black - Overweight,Red Shades,No Hat,Happy
+577,Tie,Rose Quartz Pink,Tan,Red Round Shades,No Hat,Vampire
+578,Bow Tie,Spiced Orange,Black,VR Headset,Pirate,Panting
+579,Red Bandana,Sunlit Gold,Black,3-D Glasses,Cylinder,Mustache
+580,Gold Chain,Spiced Orange,Tan - Overweight,Red Round Shades,Sobrero,Panting
+581,None,Stormcloud Grey,Black - Overweight,Normal,Sobrero,Toothy
+582,Tie,Stormcloud Grey,Black,White Shades,No Hat,Surprised
+583,None,Seashell Pink,Black - Overweight,Concerned,No Hat,Happy
+584,None,Sunlit Gold,Black,Normal,Pirate,Toothy
+585,Bow Tie,Sunlit Gold,Black,Red Shades,No Hat,Happy
+586,Neck Tattoo,Sunlit Gold,Black - Overweight,Normal,Wizard,Bubble Gum
+587,None,Spiced Orange,Tan - Overweight,Red Round Shades,No Hat,Toothy
+588,Cape,Seashell Pink,Tan,Nouns Glasses,Pirate,Mustache
+589,None,Stormcloud Grey,Tan - Overweight,White Shades,Elvis,Toothy
+590,Bow Tie,Rose Quartz Pink,Black,White Shades,No Hat,Sad
+591,None,Seashell Pink,Sable,White Shades,No Hat,Drooling
+592,None,Rose Quartz Pink,Black - Overweight,Eye Patch,Pirate,Mustache
+593,Scarf,Lavender Dusk Purple,White,Drowsy Laser Eyes,Party Hat,Bubble Gum
+594,Gold Chain,Lavender Dusk Purple,Lilac,Normal,Sobrero,Surprised
+595,Bow Tie,Spiced Orange,Tan,Goggles,No Hat,Toothy
+596,None,Rose Quartz Pink,Cream,Normal,No Hat,Bubble Gum
+597,None,Rose Quartz Pink,Tan,White Round Shades,Afro,Vampire
+598,None,Sunlit Gold,Tan,Red Shades,Afro,Mustache
+599,Neck Tattoo,Midnight Sapphire Blue,Sable,Nouns Glasses,Headband,Sad
+600,Bow Tie,Forest Moss Green,Black,Goggles,Slickback,Toothy
+601,None,Forest Moss Green,Tan,Eye Patch,No Hat,Panting
+602,Wings,Rose Quartz Pink,Cream,Normal,Headphones,Toothy
+603,Red Bandana,Spiced Orange,Black,White Round Shades,Slickback,Sad
+604,None,Sunlit Gold,Black - Overweight,Drowsy,Top Hat,Happy
+605,Bow Tie,Seashell Pink,Black - Overweight,Eye Patch,No Hat,Surprised
+606,Gold Chain,Outer Space,Black,Concerned,No Hat,Drooling
+607,Bow Tie,Spiced Orange,Tan,Goggles,No Hat,Drooling
+608,Scarf,Midnight Sapphire Blue,Black,White Shades,Sobrero,Panting
+609,Red Bandana,Lavender Dusk Purple,Black,Normal,Sobrero,Bubble Gum
+610,None,Forest Moss Green,Tan - Overweight,Normal,Wizard,Happy
+611,None,Outer Space,Black - Overweight,Laser Eyes,No Hat,Toothy
+612,None,Sunlit Gold,Tan - Overweight,Red Shades,No Hat,Sad
+613,Tie,Forest Moss Green,Black - Overweight,Nouns Glasses,No Hat,Drooling
+614,Neck Tattoo,Lavender Dusk Purple,Black,White Round Shades,Slickback,Toothy
+615,Neck Tattoo,Sunlit Gold,Black - Overweight,Concerned,Headband,Surprised
+616,Tie,Rose Quartz Pink,Black,Normal,Sobrero,Toothy
+617,Red Bandana,Seashell Pink,White,VR Headset,Headband,Toothy
+618,None,Sunlit Gold,Blue,White Shades,No Hat,Toothy
+619,Gold Chain,Rose Quartz Pink,Black,Nouns Glasses,No Hat,Vampire
+620,Scarf,Spiced Orange,Black,Red Round Shades,Cowboy,Mustache
+621,None,Spiced Orange,Tan,Drowsy,Sobrero,Happy
+622,None,Lavender Dusk Purple,Tan,Nouns Glasses,No Hat,Toothy
+623,None,Spiced Orange,White,Drowsy,Wizard,Happy
+624,Bow Tie,Lavender Dusk Purple,Tan,Normal,No Hat,Toothy
+625,None,Seashell Pink,Cream,White Shades,No Hat,Happy
+626,Gold Chain,Sunlit Gold,Sable,White Shades,Party Hat,Happy
+627,None,Lavender Dusk Purple,Cream,White Round Shades,Leprechaun,Mustache
+628,Scarf,Rose Quartz Pink,Black - Overweight,White Shades,Sobrero,Mustache
+629,None,Midnight Sapphire Blue,White,Normal,Pirate,Surprised
+630,Bow Tie,Sunlit Gold,Tan,Normal,No Hat,Toothy
+631,None,Lavender Dusk Purple,Lilac,Normal,No Hat,Panting
+632,Scarf,Sunlit Gold,Black,Normal,Fire,Mustache
+633,None,Spiced Orange,Black - Overweight,Eye Patch,Afro,Vampire
+634,None,Midnight Sapphire Blue,Cream,Normal,Elvis,Drooling
+635,None,Forest Moss Green,Black - Overweight,3-D Glasses,Elvis,Happy
+636,Neck Tattoo,Midnight Sapphire Blue,Black,White Round Shades,No Hat,Bubble Gum
+637,None,Forest Moss Green,Blue,Gold Shades,Afro,Sad
+638,None,Midnight Sapphire Blue,Blue,Goggles,Slickback,Toothy
+639,None,Midnight Sapphire Blue,White,White Round Shades,Cowboy,Surprised
+640,None,Spiced Orange,Blue,Drowsy,Bone,Surprised
+641,Scarf,Seashell Pink,Tan,Normal,No Hat,Toothy
+642,None,Outer Space,Black,Red Shades,Sobrero,Happy
+643,Samurai Sword,Spiced Orange,Black - Overweight,Drowsy,Elvis,Mustache
+644,None,Spiced Orange,Tan,Eye Patch,Slickback,Surprised
+645,Gold Chain,Midnight Sapphire Blue,Blue,Eye Patch,Cowboy,Surprised
+646,None,Rose Quartz Pink,Black,Goggles,Party Hat,Vampire
+647,Earrings,Seashell Pink,Black,White Shades,Elvis,Vampire
+648,None,Midnight Sapphire Blue,White,Goggles,No Hat,Panting
+649,None,Sunlit Gold,Cream,Red Round Shades,No Hat,Surprised
+650,None,Forest Moss Green,Sable,Goggles,Pirate,Toothy
+651,Red Bandana,Stormcloud Grey,Tan,White Round Shades,Napoleon,Happy
+652,None,Midnight Sapphire Blue,White,Normal,No Hat,Happy
+653,None,Lavender Dusk Purple,Black - Overweight,Red Shades,Cowboy,Feral
+654,Sickle,Forest Moss Green,Tan,Goggles,Sobrero,Toothy
+655,None,Stormcloud Grey,Blue,Red Shades,Party Hat,Sad
+656,Samurai Sword,Sunlit Gold,Black,White Shades,Cylinder,Vampire
+657,None,Forest Moss Green,Cream,Cyclop,Headband,Happy
+658,Red Bandana,Rose Quartz Pink,Blue,Laser Eyes,Fire,Feral
+659,None,Stormcloud Grey,White,Eye Patch,Afro,Drooling
+660,None,Stormcloud Grey,Black - Overweight,VR Headset,No Hat,Vampire
+661,Neck Tattoo,Stormcloud Grey,Tan - Overweight,White Shades,Slickback,Feral
+662,Scarf,Forest Moss Green,Chocolate,Normal,No Hat,Toothy
+663,None,Lavender Dusk Purple,Sable,Normal,Cylinder,Mustache
+664,Tie,Midnight Sapphire Blue,Black,Eye Patch,No Hat,Mustache
+665,Samurai Sword,Seashell Pink,Tan,White Round Shades,No Hat,Surprised
+666,None,Forest Moss Green,Sable,Normal,No Hat,Drooling
+667,Tie,Lavender Dusk Purple,Black - Overweight,White Round Shades,Party Hat,Bubble Gum
+668,Bow Tie,Sunlit Gold,Black,White Shades,No Hat,Happy
+669,None,Lavender Dusk Purple,Blue,Normal,Cowboy,Vampire
+670,None,Seashell Pink,Tan,Drowsy Laser Eyes,Top Hat,Surprised
+671,Tie,Rose Quartz Pink,Lilac,Cyclop,No Hat,Drooling
+672,Red Bandana,Midnight Sapphire Blue,Zombie,Eye Patch,Afro,Mustache
+673,Gold Chain,Sunlit Gold,Tan,Gold Shades,Sobrero,Surprised
+674,Scarf,Outer Space,Sable,Drowsy,Baseball Cap,Happy
+675,Neck Tattoo,Seashell Pink,White,Normal,Afro,Drooling
+676,None,Stormcloud Grey,Black,Goggles,Pirate,Feral
+677,Red Bandana,Midnight Sapphire Blue,Tan,Normal,Headband,Panting
+678,Cape,Forest Moss Green,Black - Overweight,Red Shades,No Hat,Drooling
+679,None,Stormcloud Grey,Blue,White Round Shades,No Hat,Sad
+680,Bow Tie,Forest Moss Green,Tan - Overweight,Nouns Glasses,Slickback,Happy
+681,Gold Chain,Seashell Pink,Tan - Overweight,Concerned,Sobrero,Sad
+682,None,Midnight Sapphire Blue,Black - Overweight,3-D Glasses,Pirate,Mustache
+683,Gold Chain,Spiced Orange,Sable,Goggles,No Hat,Toothy
+684,None,Seashell Pink,White,Normal,Pirate,Vampire
+685,Sickle,Midnight Sapphire Blue,Tan,Red Round Shades,Sobrero,Vampire
+686,Tie,Lavender Dusk Purple,Tan,Red Round Shades,No Hat,Surprised
+687,None,Midnight Sapphire Blue,Black,Gold Shades,Afro,Happy
+688,None,Rose Quartz Pink,Sable,Concerned,Slickback,Drooling
+689,None,Rose Quartz Pink,Black,Goggles,Party Hat,Drooling
+690,Scarf,Stormcloud Grey,Cream,Drowsy Cyclop,No Hat,Sad
+691,None,Lavender Dusk Purple,Black - Overweight,Drowsy,No Hat,Happy
+692,None,Rose Quartz Pink,Tan,Eye Patch,No Hat,Feral
+693,None,Lavender Dusk Purple,Zombie,Drowsy Cyclop,No Hat,Happy
+694,Gold Chain,Stormcloud Grey,White,Red Shades,Top Hat,Surprised
+695,Scarf,Midnight Sapphire Blue,Black - Overweight,White Shades,Cowboy,Surprised
+696,None,Seashell Pink,Black - Overweight,Normal,No Hat,Mustache
+697,None,Lavender Dusk Purple,Chocolate,Drowsy,No Hat,Surprised
+698,Sickle,Lavender Dusk Purple,Chocolate,Normal,Slickback,Surprised
+699,None,Sunlit Gold,Black - Overweight,White Shades,No Hat,Feral
+700,None,Lavender Dusk Purple,Cream,White Shades,No Hat,Happy
+701,Cape,Sunlit Gold,Black - Overweight,White Shades,Cowboy,Surprised
+702,Gold Chain,Seashell Pink,Lilac,Normal,Elvis,Toothy
+703,None,Sunlit Gold,Tan,Normal,No Hat,Feral
+704,None,Rose Quartz Pink,Tan,Nouns Glasses,Afro,Happy
+705,None,Midnight Sapphire Blue,Lilac,Normal,No Hat,Happy
+706,Gold Chain,Midnight Sapphire Blue,Tan - Overweight,White Shades,Sobrero,Toothy
+707,None,Rose Quartz Pink,Sable,White Shades,Elvis,Sad
+708,Red Bandana,Forest Moss Green,Black,Normal,No Hat,Feral
+709,Gold Chain,Stormcloud Grey,Cream,Red Shades,Elvis,Surprised
+710,Gold Chain,Forest Moss Green,Chocolate,White Round Shades,Pirate,Mustache
+711,Bow Tie,Rose Quartz Pink,Zombie,Goggles,Elvis,Feral
+712,None,Sunlit Gold,Zombie,Gold Shades,Napoleon,Surprised
+713,None,Sunlit Gold,Tan - Overweight,White Shades,Party Hat,Surprised
+714,None,Spiced Orange,Tan - Overweight,Drowsy,Cylinder,Drooling
+715,Tie,Seashell Pink,Blue,Normal,Afro,Surprised
+716,Red Bandana,Stormcloud Grey,Black,Red Shades,Headphones,Sad
+717,Red Bandana,Forest Moss Green,Black - Overweight,Eye Patch,No Hat,Happy
+718,None,Spiced Orange,Black - Overweight,Normal,Dreads,Surprised
+719,None,Spiced Orange,Tan,White Shades,No Hat,Drooling
+720,Samurai Sword,Rose Quartz Pink,Chocolate,Normal,Headphones,Mustache
+721,Gold Chain,Rose Quartz Pink,Cream,Goggles,Cowboy,Mustache
+722,Scarf,Seashell Pink,White,Eye Patch,Elvis,Happy
+723,Bow Tie,Sunlit Gold,Chocolate,Laser Eyes,Cylinder,Surprised
+724,None,Midnight Sapphire Blue,Blue,3-D Glasses,No Hat,Happy
+725,None,Stormcloud Grey,Black,Goggles,Elvis,Drooling
+726,Gold Chain,Midnight Sapphire Blue,White,Eye Patch,Pirate,Toothy
+727,None,Sunlit Gold,Tan - Overweight,VR Headset,No Hat,Happy
+728,Wings,Midnight Sapphire Blue,Cream,VR Headset,No Hat,Happy
+729,Gold Chain,Sunlit Gold,Cream,Nouns Glasses,No Hat,Drooling
+730,Cape,Sunlit Gold,White,Eye Patch,Slickback,Surprised
+731,None,Sunlit Gold,Cream,Concerned,Wizard,Bubble Gum
+732,None,Forest Moss Green,Sable,Eye Patch,Afro,Mustache
+733,Wings,Sunlit Gold,Black,Normal,No Hat,Happy
+734,Bow Tie,Sunlit Gold,Blue,Red Shades,No Hat,Sad
+735,Earrings,Sunlit Gold,Black - Overweight,Normal,Sobrero,Feral
+736,None,Forest Moss Green,Tan - Overweight,Red Shades,No Hat,Vampire
+737,Red Bandana,Forest Moss Green,Black,Drowsy,Pirate,Mustache
+738,None,Spiced Orange,Tan,White Round Shades,No Hat,Panting
+739,None,Sunlit Gold,Lilac,White Shades,No Hat,Happy
+740,Bow Tie,Forest Moss Green,Tan,Normal,Cowboy,Vampire
+741,Bow Tie,Lavender Dusk Purple,Tan,Drowsy Laser Eyes,Afro,Toothy
+742,None,Lavender Dusk Purple,Black - Overweight,Red Shades,Cowboy,Sad
+743,None,Sunlit Gold,Black,Nouns Glasses,Devil Horns,Drooling
+744,None,Midnight Sapphire Blue,Tan,White Shades,No Hat,Toothy
+745,Red Bandana,Forest Moss Green,Black - Overweight,Eye Patch,Wizard,Drooling
+746,Scarf,Spiced Orange,Cream,White Round Shades,Cowboy,Feral
+747,Tie,Stormcloud Grey,Black,Normal,Elvis,Sad
+748,Wings,Seashell Pink,Lilac,VR Headset,Party Hat,Toothy
+749,Wings,Spiced Orange,Black - Overweight,White Shades,Pirate,Sad
+750,Bow Tie,Lavender Dusk Purple,Black - Overweight,Gold Shades,Napoleon,Toothy
+751,Red Bandana,Stormcloud Grey,Black,3-D Glasses,No Hat,Happy
+752,Red Bandana,Lavender Dusk Purple,Cream,Cyclop,No Hat,Toothy
+753,Scarf,Forest Moss Green,Black - Overweight,Concerned,Slickback,Surprised
+754,Wings,Forest Moss Green,Tan,Eye Patch,Headband,Happy
+755,Red Bandana,Sunlit Gold,Tan - Overweight,White Shades,Leprechaun,Happy
+756,Red Bandana,Rose Quartz Pink,Cream,Red Shades,No Hat,Surprised
+757,None,Stormcloud Grey,Cream,White Round Shades,Cowboy,Toothy
+758,None,Forest Moss Green,Black,Goggles,Elvis,Sad
+759,Red Bandana,Stormcloud Grey,Black,Laser Eyes,Afro,Happy
+760,Neck Tattoo,Forest Moss Green,Black - Overweight,Normal,Headphones,Surprised
+761,None,Lavender Dusk Purple,Zombie,White Round Shades,Elvis,Feral
+762,Tie,Stormcloud Grey,Black,White Round Shades,Party Hat,Bubble Gum
+763,Gold Chain,Seashell Pink,Cream,Red Round Shades,No Hat,Feral
+764,Red Bandana,Spiced Orange,Black - Overweight,3-D Glasses,Afro,Toothy
+765,None,Rose Quartz Pink,Black - Overweight,Normal,No Hat,Mustache
+766,Scarf,Midnight Sapphire Blue,Black - Overweight,Red Shades,No Hat,Toothy
+767,None,Lavender Dusk Purple,Sable,VR Headset,Pirate,Happy
+768,Scarf,Stormcloud Grey,Tan - Overweight,Eye Patch,Party Hat,Toothy
+769,None,Forest Moss Green,Tan,Cyclop,Headphones,Sad
+770,None,Stormcloud Grey,Tan,Drowsy,Afro,Bubble Gum
+771,None,Sunlit Gold,Black - Overweight,Goggles,Baseball Cap,Sad
+772,Scarf,Forest Moss Green,Black,White Shades,Headband,Happy
+773,None,Sunlit Gold,Tan,Red Shades,Headband,Toothy
+774,None,Stormcloud Grey,Tan - Overweight,Goggles,Napoleon,Happy
+775,Bow Tie,Forest Moss Green,Cream,Normal,Fire,Happy
+776,Tie,Forest Moss Green,Black,Nouns Glasses,Sobrero,Happy
+777,None,Spiced Orange,Lilac,White Round Shades,Baseball Cap,Happy
+778,Scarf,Midnight Sapphire Blue,Black - Overweight,Concerned,Cowboy,Happy
+779,None,Sunlit Gold,Tan,White Shades,Party Hat,Happy
+780,Neck Tattoo,Forest Moss Green,Cream,Red Shades,Devil Horns,Surprised
+781,None,Lavender Dusk Purple,Black,VR Headset,Afro,Happy
+782,None,Stormcloud Grey,Black - Overweight,Nouns Glasses,No Hat,Panting
+783,None,Spiced Orange,Tan,Goggles,Bone,Happy
+784,Scarf,Spiced Orange,Black,Nouns Glasses,Slickback,Drooling
+785,Scarf,Seashell Pink,Black - Overweight,Normal,Wizard,Happy
+786,Gold Chain,Spiced Orange,Black,Gold Shades,Party Hat,Happy
+787,None,Outer Space,Cream,3-D Glasses,No Hat,Surprised
+788,None,Sunlit Gold,Blue,Red Round Shades,No Hat,Mustache
+789,Samurai Sword,Lavender Dusk Purple,Tan,Normal,Headband,Toothy
+790,None,Sunlit Gold,Black,Nouns Glasses,Pirate,Surprised
+791,None,Spiced Orange,Black - Overweight,3-D Glasses,No Hat,Mustache
+792,Bow Tie,Sunlit Gold,Tan,Normal,Afro,Sad
+793,None,Sunlit Gold,Sable,Normal,Headband,Feral
+794,Tie,Midnight Sapphire Blue,Tan,Red Round Shades,Slickback,Toothy
+795,Scarf,"Red, White, and Blue",Tan,3-D Glasses,No Hat,Happy
+796,None,Seashell Pink,Lilac,White Round Shades,No Hat,Feral
+797,Scarf,Forest Moss Green,Black,Goggles,No Hat,Feral
+798,None,Forest Moss Green,Tan - Overweight,Red Shades,Sobrero,Happy
+799,None,Midnight Sapphire Blue,Black,Normal,Elvis,Happy
+800,None,Lavender Dusk Purple,Black - Overweight,Red Shades,No Hat,Feral
+801,None,Stormcloud Grey,Tan - Overweight,White Shades,No Hat,Mustache
+802,None,Spiced Orange,Sable,Normal,Headphones,Mustache
+803,None,Stormcloud Grey,Black,Normal,Party Hat,Feral
+804,Tie,Lavender Dusk Purple,Black - Overweight,Red Round Shades,Cylinder,Drooling
+805,Bow Tie,Sunlit Gold,Lilac,Normal,No Hat,Happy
+806,None,Midnight Sapphire Blue,Black,Red Shades,No Hat,Surprised
+807,None,Midnight Sapphire Blue,Tan - Overweight,Red Shades,Elvis,Toothy
+808,None,Forest Moss Green,Tan - Overweight,Normal,Elvis,Panting
+809,None,Seashell Pink,Cream,Drowsy,Headphones,Toothy
+810,Scarf,Seashell Pink,Black,White Round Shades,Afro,Sad
+811,Scarf,Seashell Pink,Black - Overweight,Drowsy,Fire,Surprised
+812,None,Forest Moss Green,Sable,Laser Eyes,Devil Horns,Mustache
+813,Neck Tattoo,Rose Quartz Pink,Black - Overweight,3-D Glasses,Elvis,Happy
+814,Tie,Midnight Sapphire Blue,Black,White Shades,No Hat,Toothy
+815,Red Bandana,Lavender Dusk Purple,Black,Gold Shades,Beret,Sad
+816,None,Stormcloud Grey,Black,3-D Glasses,No Hat,Mustache
+817,None,Midnight Sapphire Blue,Black - Overweight,Nouns Glasses,Devil Horns,Bubble Gum
+818,Scarf,Forest Moss Green,Sable,Concerned,Cylinder,Sad
+819,Gold Chain,Sunlit Gold,Tan,Red Round Shades,Wizard,Happy
+820,None,Rose Quartz Pink,Blue,Normal,No Hat,Surprised
+821,None,Spiced Orange,Blue,White Round Shades,Cowboy,Surprised
+822,Scarf,Seashell Pink,Tan,Red Shades,No Hat,Toothy
+823,Neck Tattoo,Seashell Pink,Black,White Round Shades,No Hat,Panting
+824,None,Stormcloud Grey,Lilac,White Round Shades,Party Hat,Panting
+825,None,Stormcloud Grey,Black - Overweight,Red Round Shades,Baseball Cap,Bubble Gum
+826,None,Seashell Pink,Black - Overweight,Drowsy,Pirate,Surprised
+827,None,Midnight Sapphire Blue,Chocolate,3-D Glasses,Party Hat,Happy
+828,Neck Tattoo,Sunlit Gold,Black - Overweight,Eye Patch,Pirate,Happy
+829,None,Rose Quartz Pink,Black,White Round Shades,No Hat,Surprised
+830,Red Bandana,Stormcloud Grey,Blue,White Shades,No Hat,Vampire
+831,Neck Tattoo,Lavender Dusk Purple,Black,Red Round Shades,Beret,Happy
+832,Gold Chain,Sunlit Gold,Tan,Eye Patch,Headphones,Sad
+833,None,Sunlit Gold,Tan,Eye Patch,Sobrero,Toothy
+834,Tie,Stormcloud Grey,Black,Normal,No Hat,Happy
+835,Gold Chain,Stormcloud Grey,Sable,White Shades,Pirate,Mustache
+836,None,Forest Moss Green,Black,Eye Patch,Cowboy,Surprised
+837,None,Sunlit Gold,Tan,Drowsy Laser Eyes,No Hat,Happy
+838,Scarf,Sunlit Gold,Tan,White Shades,Headband,Happy
+839,None,Seashell Pink,Black,Normal,Cylinder,Happy
+840,Bow Tie,Sunlit Gold,White,Normal,Devil Horns,Surprised
+841,Neck Tattoo,Seashell Pink,Chocolate,Drowsy,Elvis,Happy
+842,None,Lavender Dusk Purple,Blue,Normal,Afro,Toothy
+843,Scarf,Forest Moss Green,Black,Normal,Sobrero,Mustache
+844,None,Spiced Orange,Blue,Normal,No Hat,Toothy
+845,Bow Tie,Midnight Sapphire Blue,Black,Eye Patch,Headphones,Happy
+846,Tie,Midnight Sapphire Blue,Black,White Shades,No Hat,Happy
+847,Red Bandana,Stormcloud Grey,Black,Nouns Glasses,No Hat,Happy
+848,Scarf,Forest Moss Green,Black - Overweight,Eye Patch,No Hat,Mustache
+849,None,Rose Quartz Pink,Black - Overweight,Red Round Shades,No Hat,Mustache
+850,Bow Tie,Stormcloud Grey,Cream,VR Headset,Headband,Surprised
+851,Earrings,Stormcloud Grey,Black,Red Shades,Sobrero,Happy
+852,Scarf,Spiced Orange,Black - Overweight,White Round Shades,Headband,Happy
+853,Bow Tie,Stormcloud Grey,Tan,Eye Patch,No Hat,Surprised
+854,None,Midnight Sapphire Blue,Black,White Shades,Elvis,Toothy
+855,Scarf,Lavender Dusk Purple,White,Red Round Shades,No Hat,Sad
+856,Bow Tie,Spiced Orange,Tan,White Round Shades,No Hat,Surprised
+857,None,Spiced Orange,Lilac,White Round Shades,Cowboy,Bubble Gum
+858,Scarf,Seashell Pink,Black,Concerned,No Hat,Happy
+859,Wings,Sunlit Gold,Chocolate,Nouns Glasses,Slickback,Happy
+860,None,Rose Quartz Pink,Cream,White Shades,No Hat,Happy
+861,Scarf,Forest Moss Green,Black,Eye Patch,No Hat,Toothy
+862,Samurai Sword,Stormcloud Grey,Cream,White Round Shades,Cowboy,Surprised
+863,None,Sunlit Gold,Black,Normal,No Hat,Mustache
+864,Gold Chain,Forest Moss Green,Blue,White Shades,Elvis,Surprised
+865,Tie,Lavender Dusk Purple,Black,Normal,No Hat,Sad
+866,Neck Tattoo,Seashell Pink,Black,White Shades,No Hat,Drooling
+867,Bow Tie,Forest Moss Green,Black - Overweight,White Round Shades,No Hat,Bubble Gum
+868,None,Spiced Orange,Sable,Red Shades,Afro,Happy
+869,Gold Chain,Seashell Pink,Black,Goggles,No Hat,Happy
+870,Bow Tie,Sunlit Gold,Cream,Eye Patch,No Hat,Toothy
+871,Bow Tie,Stormcloud Grey,Blue,White Round Shades,Headband,Vampire
+872,Neck Tattoo,Sunlit Gold,White,Normal,No Hat,Surprised
+873,Gold Chain,Forest Moss Green,Black,Cyclop,Cylinder,Vampire
+874,None,Lavender Dusk Purple,Sable,Red Round Shades,Pirate,Vampire
+875,None,Rose Quartz Pink,Black - Overweight,Concerned,Top Hat,Drooling
+876,None,Seashell Pink,Black,Normal,Sobrero,Happy
+877,None,Rose Quartz Pink,Black - Overweight,White Round Shades,Party Hat,Drooling
+878,Bow Tie,Forest Moss Green,Cream,Nouns Glasses,No Hat,Bubble Gum
+879,Samurai Sword,Stormcloud Grey,Cream,Normal,No Hat,Sad
+880,None,Lavender Dusk Purple,Lilac,VR Headset,Afro,Mustache
+881,None,Seashell Pink,Black,Normal,No Hat,Surprised
+882,Red Bandana,Rose Quartz Pink,Lilac,White Shades,Headphones,Happy
+883,None,Spiced Orange,Black - Overweight,Concerned,No Hat,Happy
+884,Tie,Sunlit Gold,Black - Overweight,Normal,No Hat,Happy
+885,Scarf,Forest Moss Green,Black,Normal,No Hat,Surprised
+886,None,Rose Quartz Pink,Black - Overweight,Eye Patch,No Hat,Vampire
+887,None,Spiced Orange,Tan,Normal,No Hat,Happy
+888,None,Lavender Dusk Purple,Black - Overweight,White Shades,Headphones,Bubble Gum
+889,None,Seashell Pink,Lilac,Normal,No Hat,Bubble Gum
+890,Red Bandana,Rose Quartz Pink,Blue,Red Round Shades,Headband,Happy
+891,None,Forest Moss Green,Black,Normal,Sobrero,Happy
+892,Tie,Sunlit Gold,Tan,Normal,Afro,Mustache
+893,Gold Chain,Sunlit Gold,Tan - Overweight,White Shades,Elvis,Toothy
+894,None,Forest Moss Green,Black - Overweight,Drowsy,No Hat,Drooling
+895,Bow Tie,Lavender Dusk Purple,Tan - Overweight,Red Shades,Slickback,Vampire
+896,None,Rose Quartz Pink,Tan - Overweight,Normal,No Hat,Feral
+897,Gold Chain,Spiced Orange,Cream,White Shades,Pirate,Bubble Gum
+898,Red Bandana,Rose Quartz Pink,Blue,Eye Patch,No Hat,Panting
+899,Sickle,Seashell Pink,Black - Overweight,3-D Glasses,Afro,Feral
+900,Red Bandana,Sunlit Gold,Black,Normal,No Hat,Sad
+901,Samurai Sword,Lavender Dusk Purple,Sable,Red Round Shades,Wizard,Surprised
+902,None,Lavender Dusk Purple,Tan,White Shades,No Hat,Sad
+903,Gold Chain,Midnight Sapphire Blue,Blue,White Round Shades,Bone,Happy
+904,Red Bandana,Midnight Sapphire Blue,Chocolate,Concerned,Cowboy,Happy
+905,Scarf,Midnight Sapphire Blue,Cream,Red Round Shades,Cylinder,Happy
+906,Gold Chain,Midnight Sapphire Blue,Sable,Red Round Shades,Sobrero,Drooling
+907,Red Bandana,Sunlit Gold,Sable,White Round Shades,No Hat,Drooling
+908,None,Midnight Sapphire Blue,Black - Overweight,Cyclop,Sobrero,Toothy
+909,Scarf,Seashell Pink,Blue,White Shades,Headphones,Toothy
+910,Sickle,Rose Quartz Pink,Tan - Overweight,Normal,No Hat,Happy
+911,None,Spiced Orange,Tan,Concerned,Headband,Happy
+912,None,Forest Moss Green,Black - Overweight,Concerned,Slickback,Sad
+913,None,Lavender Dusk Purple,Black - Overweight,Red Round Shades,No Hat,Surprised
+914,None,Forest Moss Green,Black - Overweight,Red Round Shades,Headband,Sad
+915,None,Seashell Pink,Sable,Normal,No Hat,Feral
+916,Gold Chain,Stormcloud Grey,Black,White Round Shades,No Hat,Panting
+917,Scarf,Sunlit Gold,Cream,Red Shades,Party Hat,Drooling
+918,Wings,Spiced Orange,Zombie,3-D Glasses,Headband,Happy
+919,None,Lavender Dusk Purple,Chocolate,Drowsy,Pirate,Panting
+920,Gold Chain,Spiced Orange,Black,White Round Shades,Wizard,Toothy
+921,None,Midnight Sapphire Blue,Tan,VR Headset,No Hat,Sad
+922,None,Midnight Sapphire Blue,Blue,Normal,No Hat,Happy
+923,None,Rose Quartz Pink,Cream,Normal,Beret,Surprised
+924,None,Seashell Pink,Chocolate,VR Headset,Elvis,Toothy
+925,Gold Chain,Rose Quartz Pink,Tan,Eye Patch,Cowboy,Mustache
+926,Red Bandana,Midnight Sapphire Blue,Lilac,Normal,No Hat,Vampire
+927,None,Lavender Dusk Purple,Black - Overweight,White Shades,Beret,Surprised
+928,Bow Tie,Forest Moss Green,Chocolate,Nouns Glasses,Wizard,Sad
+929,Gold Chain,Lavender Dusk Purple,Black,Normal,Party Hat,Toothy
+930,Red Bandana,Lavender Dusk Purple,Black,Normal,Headband,Mustache
+931,Scarf,Forest Moss Green,Tan,White Shades,Headband,Mustache
+932,None,Spiced Orange,Sable,White Shades,Leprechaun,Drooling
+933,Bow Tie,Seashell Pink,Black,Drowsy Cyclop,No Hat,Happy
+934,Neck Tattoo,Seashell Pink,Lilac,Nouns Glasses,No Hat,Sad
+935,Neck Tattoo,Spiced Orange,Tan,Red Round Shades,Cylinder,Bubble Gum
+936,None,Midnight Sapphire Blue,White,Eye Patch,No Hat,Drooling
+937,None,Lavender Dusk Purple,Black,3-D Glasses,Pirate,Surprised
+938,Scarf,Spiced Orange,Black,Normal,Slickback,Vampire
+939,Scarf,Stormcloud Grey,Cream,Red Round Shades,No Hat,Toothy
+940,Gold Chain,Stormcloud Grey,Black,Normal,Slickback,Toothy
+941,Sickle,Midnight Sapphire Blue,Tan - Overweight,Normal,Fire,Mustache
+942,None,Seashell Pink,Black,Drowsy,Slickback,Happy
+943,Tie,Forest Moss Green,Black - Overweight,Normal,No Hat,Feral
+944,None,Spiced Orange,Black,Nouns Glasses,Elvis,Mustache
+945,None,Seashell Pink,Black - Overweight,Normal,Headband,Surprised
+946,Bow Tie,Seashell Pink,White,White Round Shades,Elvis,Feral
+947,None,Midnight Sapphire Blue,Tan,Laser Eyes,No Hat,Surprised
+948,None,Stormcloud Grey,Zombie,Goggles,Sobrero,Toothy
+949,Gold Chain,Rose Quartz Pink,Black,Normal,Pirate,Happy
+950,None,Sunlit Gold,Chocolate,3-D Glasses,Slickback,Drooling
+951,None,Rose Quartz Pink,Chocolate,Nouns Glasses,Slickback,Sad
+952,None,Spiced Orange,Blue,Drowsy Cyclop,No Hat,Bubble Gum
+953,Scarf,Seashell Pink,Tan,Red Round Shades,Wizard,Feral
+954,Scarf,Sunlit Gold,Tan - Overweight,White Shades,Cowboy,Surprised
+955,None,Stormcloud Grey,Tan,White Shades,Headphones,Sad
+956,Wings,Sunlit Gold,Black,Normal,Headphones,Panting
+957,Scarf,Seashell Pink,Sable,Red Shades,No Hat,Happy
+958,Tie,Sunlit Gold,Cream,Nouns Glasses,No Hat,Mustache
+959,Tie,Seashell Pink,Black - Overweight,Normal,No Hat,Happy
+960,None,Seashell Pink,Black - Overweight,Red Shades,Slickback,Toothy
+961,None,Forest Moss Green,Black,White Round Shades,Angel Halo,Drooling
+962,Red Bandana,Spiced Orange,Black - Overweight,Eye Patch,No Hat,Sad
+963,None,Sunlit Gold,Black - Overweight,Normal,Devil Horns,Toothy
+964,None,Seashell Pink,Black,White Shades,No Hat,Toothy
+965,Cape,Stormcloud Grey,Black - Overweight,Normal,Cowboy,Drooling
+966,Scarf,Sunlit Gold,Cream,Concerned,No Hat,Sad
+967,None,Sunlit Gold,Tan,White Round Shades,Afro,Happy
+968,None,Lavender Dusk Purple,Black,3-D Glasses,No Hat,Drooling
+969,Red Bandana,Lavender Dusk Purple,Cream,Normal,Slickback,Toothy
+970,Sickle,Lavender Dusk Purple,Blue,White Round Shades,Baseball Cap,Drooling
+971,None,Spiced Orange,Tan,Red Shades,No Hat,Surprised
+972,None,Seashell Pink,Black - Overweight,Normal,Headphones,Bubble Gum
+973,Bow Tie,Spiced Orange,Black,Goggles,Afro,Surprised
+974,Gold Chain,Stormcloud Grey,Black,Eye Patch,No Hat,Surprised
+975,Gold Chain,Lavender Dusk Purple,Sable,Normal,Party Hat,Sad
+976,None,Lavender Dusk Purple,Cream,Normal,No Hat,Bubble Gum
+977,Bow Tie,Midnight Sapphire Blue,Black - Overweight,Goggles,Slickback,Vampire
+978,Gold Chain,Seashell Pink,Black,White Shades,Afro,Mustache
+979,None,Stormcloud Grey,Black - Overweight,3-D Glasses,Elvis,Happy
+980,None,Sunlit Gold,Tan - Overweight,White Shades,Afro,Surprised
+981,None,Outer Space,Tan - Overweight,Goggles,No Hat,Drooling
+982,None,Forest Moss Green,Black,Drowsy Cyclop,Cowboy,Happy
+983,Red Bandana,Midnight Sapphire Blue,Cream,Normal,No Hat,Sad
+984,None,Seashell Pink,Cream,White Shades,Cowboy,Toothy
+985,None,Spiced Orange,Tan,Normal,Bone,Vampire
+986,None,Stormcloud Grey,Cream,Nouns Glasses,Sobrero,Toothy
+987,None,Seashell Pink,Black,Normal,Slickback,Mustache
+988,Scarf,Lavender Dusk Purple,Tan,Drowsy,No Hat,Happy
+989,Bow Tie,Forest Moss Green,White,Red Round Shades,Baseball Cap,Panting
+990,Sickle,Rose Quartz Pink,Black,Red Shades,No Hat,Happy
+991,Bow Tie,Forest Moss Green,Black,Normal,Afro,Bubble Gum
+992,Samurai Sword,Midnight Sapphire Blue,Blue,White Round Shades,Afro,Mustache
+993,None,Midnight Sapphire Blue,Chocolate,White Shades,Party Hat,Toothy
+994,None,Rose Quartz Pink,Cream,Normal,Sobrero,Sad
+995,Gold Chain,Spiced Orange,Tan,Normal,Party Hat,Sad
+996,Gold Chain,Forest Moss Green,Black - Overweight,White Shades,Afro,Feral
+997,None,Lavender Dusk Purple,Black,Red Shades,No Hat,Vampire
+998,None,Forest Moss Green,White,Normal,Cylinder,Bubble Gum
+999,None,Midnight Sapphire Blue,Tan - Overweight,Normal,Party Hat,Feral
+1000,Scarf,Sunlit Gold,Lilac,Normal,No Hat,Sad
+1001,Neck Tattoo,Sunlit Gold,Lilac,White Shades,Sobrero,Happy
+1002,None,Seashell Pink,White,White Shades,No Hat,Feral
+1003,None,Lavender Dusk Purple,Sable,Normal,Fire,Mustache
+1004,Red Bandana,Stormcloud Grey,Tan,Cyclop,No Hat,Drooling
+1005,None,Sunlit Gold,Black - Overweight,White Shades,Party Hat,Bubble Gum
+1006,Scarf,Sunlit Gold,Sable,Red Round Shades,Dreads,Panting
+1007,Red Bandana,Spiced Orange,Black - Overweight,Normal,Slickback,Happy
+1008,Gold Chain,Sunlit Gold,Black - Overweight,Normal,Elvis,Toothy
+1009,Tie,Seashell Pink,Tan,Drowsy,No Hat,Toothy
+1010,Neck Tattoo,Forest Moss Green,Black,White Round Shades,No Hat,Toothy
+1011,None,Spiced Orange,Chocolate,Red Round Shades,No Hat,Sad
+1012,Red Bandana,Spiced Orange,Lilac,Normal,Elvis,Sad
+1013,Earrings,Midnight Sapphire Blue,Black - Overweight,Eye Patch,Cowboy,Sad
+1014,Red Bandana,Spiced Orange,Tan - Overweight,White Shades,No Hat,Vampire
+1015,None,Rose Quartz Pink,Black,Drowsy Laser Eyes,No Hat,Happy
+1016,None,Outer Space,Black - Overweight,Normal,No Hat,Mustache
+1017,Bow Tie,Rose Quartz Pink,Tan,Red Round Shades,Dreads,Happy
+1018,Tie,Stormcloud Grey,Tan,Red Round Shades,No Hat,Sad
+1019,None,Sunlit Gold,White,Nouns Glasses,Beret,Happy
+1020,Tie,Seashell Pink,Lilac,White Shades,No Hat,Sad
+1021,Bow Tie,Forest Moss Green,Tan,Goggles,Fire,Sad
+1022,Earrings,Forest Moss Green,Tan - Overweight,Normal,No Hat,Sad
+1023,Sickle,Outer Space,Black - Overweight,Nouns Glasses,Afro,Mustache
+1024,None,Rose Quartz Pink,Black,White Shades,No Hat,Vampire
+1025,Red Bandana,Midnight Sapphire Blue,Tan,Normal,Elvis,Happy
+1026,Red Bandana,Rose Quartz Pink,Black,Eye Patch,No Hat,Mustache
+1027,Scarf,Sunlit Gold,Sable,Red Shades,Afro,Bubble Gum
+1028,Red Bandana,Forest Moss Green,Black - Overweight,Red Round Shades,Cylinder,Toothy
+1029,None,Seashell Pink,Black - Overweight,White Round Shades,Cylinder,Happy
+1030,Scarf,Sunlit Gold,Black,Normal,No Hat,Sad
+1031,None,Rose Quartz Pink,Black,Eye Patch,Headband,Happy
+1032,None,"Red, White, and Blue",Tan - Overweight,Cyclop,Pirate,Sad
+1033,None,Sunlit Gold,Tan - Overweight,Red Shades,Afro,Sad
+1034,Earrings,Spiced Orange,Black - Overweight,Normal,Wizard,Happy
+1035,Samurai Sword,Sunlit Gold,Black,Goggles,Angel Halo,Sad
+1036,None,Sunlit Gold,Black,3-D Glasses,Cowboy,Drooling
+1037,Bow Tie,Spiced Orange,Black - Overweight,White Shades,Cowboy,Panting
+1038,None,Sunlit Gold,Tan,White Round Shades,Pirate,Drooling
+1039,Neck Tattoo,Seashell Pink,Tan - Overweight,Gold Shades,Dreads,Sad
+1040,Red Bandana,Sunlit Gold,Black,White Shades,Cowboy,Vampire
+1041,None,Lavender Dusk Purple,Tan - Overweight,Normal,Afro,Vampire
+1042,None,Rose Quartz Pink,Tan - Overweight,Eye Patch,Slickback,Mustache
+1043,None,Rose Quartz Pink,Chocolate,Red Round Shades,Party Hat,Surprised
+1044,None,Rose Quartz Pink,Tan,White Shades,Afro,Toothy
+1045,None,Spiced Orange,Black - Overweight,Drowsy,Bone,Toothy
+1046,Samurai Sword,Lavender Dusk Purple,Tan,3-D Glasses,Beret,Surprised
+1047,None,Spiced Orange,Sable,Goggles,Beret,Surprised
+1048,Scarf,Rose Quartz Pink,Black - Overweight,VR Headset,Dreads,Toothy
+1049,Gold Chain,Lavender Dusk Purple,Tan,Normal,No Hat,Feral
+1050,Bow Tie,Sunlit Gold,Black - Overweight,White Shades,Headband,Toothy
+1051,Gold Chain,Midnight Sapphire Blue,Sable,Normal,Headband,Surprised
+1052,Scarf,Seashell Pink,Black - Overweight,Normal,Angel Halo,Toothy
+1053,Scarf,Stormcloud Grey,Black,Normal,No Hat,Sad
+1054,Tie,Forest Moss Green,Tan,Normal,Cowboy,Sad
+1055,Red Bandana,Rose Quartz Pink,Black,Normal,Top Hat,Sad
+1056,Wings,Rose Quartz Pink,Black - Overweight,Normal,Dreads,Vampire
+1057,Gold Chain,Spiced Orange,Tan,White Shades,Cylinder,Panting
+1058,None,Seashell Pink,Black - Overweight,White Round Shades,No Hat,Surprised
+1059,Bow Tie,Seashell Pink,Black - Overweight,White Shades,Beret,Feral
+1060,None,Lavender Dusk Purple,Blue,Laser Eyes,Cylinder,Vampire
+1061,Scarf,Seashell Pink,White,Drowsy,Pirate,Happy
+1062,None,Spiced Orange,White,Normal,No Hat,Happy
+1063,None,Spiced Orange,Black,Cyclop,Afro,Vampire
+1064,Samurai Sword,Forest Moss Green,Tan,Normal,Elvis,Feral
+1065,None,Spiced Orange,Tan,White Shades,Headphones,Toothy
+1066,None,Stormcloud Grey,Cream,White Shades,Sobrero,Happy
+1067,None,Sunlit Gold,Black - Overweight,White Shades,No Hat,Toothy
+1068,Scarf,Midnight Sapphire Blue,Black - Overweight,Goggles,No Hat,Happy
+1069,Scarf,Seashell Pink,Tan - Overweight,Drowsy Cyclop,Top Hat,Drooling
+1070,Bow Tie,"Red, White, and Blue",Tan - Overweight,Gold Shades,Cylinder,Feral
+1071,None,Lavender Dusk Purple,Lilac,White Round Shades,Cowboy,Sad
+1072,Red Bandana,Forest Moss Green,Black - Overweight,Red Shades,Sobrero,Vampire
+1073,Scarf,Seashell Pink,White,Normal,No Hat,Vampire
+1074,None,Seashell Pink,Tan,Drowsy,Wizard,Drooling
+1075,None,Sunlit Gold,Black - Overweight,Nouns Glasses,No Hat,Toothy
+1076,Red Bandana,Sunlit Gold,Lilac,3-D Glasses,Afro,Happy
+1077,None,Seashell Pink,Black - Overweight,Cyclop,No Hat,Panting
+1078,None,Sunlit Gold,Lilac,Eye Patch,Slickback,Surprised
+1079,None,Spiced Orange,Black,Eye Patch,Elvis,Happy
+1080,None,Lavender Dusk Purple,White,Eye Patch,No Hat,Drooling
+1081,Tie,Forest Moss Green,Cream,Eye Patch,No Hat,Sad
+1082,Gold Chain,Lavender Dusk Purple,Black - Overweight,Red Shades,No Hat,Surprised
+1083,None,Sunlit Gold,Black - Overweight,Goggles,No Hat,Sad
+1084,Red Bandana,Seashell Pink,Tan,White Shades,No Hat,Happy
+1085,Bow Tie,Seashell Pink,Lilac,White Shades,Sobrero,Happy
+1086,Gold Chain,Stormcloud Grey,Black,Cyclop,Elvis,Panting
+1087,None,Midnight Sapphire Blue,Black,Normal,Cowboy,Feral
+1088,Tie,Midnight Sapphire Blue,Lilac,White Round Shades,No Hat,Sad
+1089,Tie,Stormcloud Grey,White,White Round Shades,Cylinder,Vampire
+1090,None,Sunlit Gold,Tan,Gold Shades,Cylinder,Bubble Gum
+1091,Neck Tattoo,Rose Quartz Pink,Tan,Normal,Cowboy,Drooling
+1092,None,Spiced Orange,Black,Red Shades,Cylinder,Vampire
+1093,Tie,Stormcloud Grey,Cream,Normal,Sobrero,Toothy
+1094,Tie,Forest Moss Green,Chocolate,Red Shades,No Hat,Vampire
+1095,Tie,Lavender Dusk Purple,Blue,Nouns Glasses,Headband,Toothy
+1096,Tie,Seashell Pink,Tan,White Round Shades,Cylinder,Surprised
+1097,None,Spiced Orange,Chocolate,White Round Shades,No Hat,Happy
+1098,None,Midnight Sapphire Blue,Black - Overweight,Drowsy,No Hat,Happy
+1099,None,Forest Moss Green,Tan - Overweight,Normal,No Hat,Surprised
+1100,None,Stormcloud Grey,Black - Overweight,Normal,No Hat,Sad
+1101,Scarf,Lavender Dusk Purple,Tan,Normal,Headphones,Sad
+1102,Scarf,Lavender Dusk Purple,Tan - Overweight,Normal,Cowboy,Happy
+1103,Tie,Stormcloud Grey,Black,White Round Shades,Party Hat,Sad
+1104,None,Lavender Dusk Purple,Black - Overweight,Normal,No Hat,Toothy
+1105,None,Forest Moss Green,White,White Shades,Headband,Toothy
+1106,None,Rose Quartz Pink,White,VR Headset,No Hat,Happy
+1107,Red Bandana,Midnight Sapphire Blue,Tan - Overweight,Eye Patch,Pirate,Happy
+1108,Tie,Seashell Pink,Sable,White Shades,Sobrero,Feral
+1109,Bow Tie,Rose Quartz Pink,Tan,Drowsy,No Hat,Surprised
+1110,None,Seashell Pink,Tan,Gold Shades,Cylinder,Mustache
+1111,Red Bandana,Seashell Pink,Zombie,White Shades,Pirate,Vampire
+1112,Red Bandana,Spiced Orange,Black - Overweight,White Shades,Elvis,Happy
+1113,Bow Tie,Seashell Pink,Cream,Normal,No Hat,Drooling
+1114,Red Bandana,Midnight Sapphire Blue,Tan - Overweight,3-D Glasses,Cylinder,Sad
+1115,Bow Tie,Seashell Pink,Tan,Normal,Pirate,Drooling
+1116,Tie,Sunlit Gold,Black - Overweight,Goggles,No Hat,Mustache
+1117,Scarf,Forest Moss Green,Cream,Normal,No Hat,Happy
+1118,Scarf,Spiced Orange,Tan,White Round Shades,No Hat,Drooling
+1119,Red Bandana,Forest Moss Green,Tan,White Round Shades,Afro,Toothy
+1120,None,Stormcloud Grey,Lilac,White Round Shades,No Hat,Happy
+1121,Scarf,Rose Quartz Pink,Black - Overweight,Eye Patch,No Hat,Surprised
+1122,Red Bandana,Forest Moss Green,Black - Overweight,Red Shades,No Hat,Happy
+1123,None,Rose Quartz Pink,Sable,Normal,Slickback,Toothy
+1124,Samurai Sword,Midnight Sapphire Blue,Chocolate,Red Shades,No Hat,Mustache
+1125,Red Bandana,Stormcloud Grey,Tan,Eye Patch,Afro,Happy
+1126,Earrings,Sunlit Gold,Tan,White Round Shades,Slickback,Happy
+1127,None,Lavender Dusk Purple,Tan,White Round Shades,Angel Halo,Toothy
+1128,None,Midnight Sapphire Blue,Black,Normal,Cowboy,Toothy
+1129,None,Forest Moss Green,White,Goggles,Pirate,Feral
+1130,Scarf,Forest Moss Green,Black,Cyclop,No Hat,Happy
+1131,Gold Chain,Rose Quartz Pink,Black,White Shades,No Hat,Happy
+1132,None,Lavender Dusk Purple,Black,White Shades,Pirate,Happy
+1133,Gold Chain,Forest Moss Green,Black,Drowsy,No Hat,Toothy
+1134,Scarf,"Red, White, and Blue",Blue,Eye Patch,Headband,Surprised
+1135,Bow Tie,Stormcloud Grey,Black,Eye Patch,Sobrero,Bubble Gum
+1136,None,Spiced Orange,Black,Normal,Elvis,Happy
+1137,Scarf,Sunlit Gold,Blue,White Round Shades,No Hat,Happy
+1138,Tie,Stormcloud Grey,Black,Concerned,No Hat,Happy
+1139,None,Midnight Sapphire Blue,Tan - Overweight,Nouns Glasses,No Hat,Panting
+1140,None,Lavender Dusk Purple,Cream,Gold Shades,Cowboy,Happy
+1141,Red Bandana,Lavender Dusk Purple,Blue,Eye Patch,Pirate,Happy
+1142,Scarf,Forest Moss Green,Lilac,Normal,Cylinder,Happy
+1143,None,Rose Quartz Pink,Lilac,White Shades,Devil Horns,Happy
+1144,None,Seashell Pink,Cream,Normal,No Hat,Happy
+1145,Samurai Sword,Spiced Orange,Sable,White Shades,No Hat,Sad
+1146,None,Spiced Orange,Cream,Normal,Elvis,Feral
+1147,Gold Chain,Sunlit Gold,Black - Overweight,Normal,Leprechaun,Bubble Gum
+1148,Tie,Seashell Pink,Black,Eye Patch,Elvis,Toothy
+1149,Scarf,Rose Quartz Pink,Tan,Drowsy Cyclop,Elvis,Surprised
+1150,Wings,Spiced Orange,Chocolate,Red Shades,Cowboy,Toothy
+1151,Gold Chain,Seashell Pink,Cream,White Shades,No Hat,Sad
+1152,None,Spiced Orange,Black,Eye Patch,Afro,Toothy
+1153,None,Rose Quartz Pink,Black,White Shades,Pirate,Drooling
+1154,None,Midnight Sapphire Blue,Black - Overweight,Laser Eyes,Afro,Drooling
+1155,Gold Chain,Stormcloud Grey,Chocolate,Red Shades,Afro,Sad
+1156,Gold Chain,Stormcloud Grey,Sable,Nouns Glasses,Elvis,Mustache
+1157,Bow Tie,Midnight Sapphire Blue,Blue,Drowsy Cyclop,Party Hat,Sad
+1158,Neck Tattoo,Seashell Pink,Tan - Overweight,White Shades,Headband,Panting
+1159,Scarf,"Red, White, and Blue",Sable,Normal,Sobrero,Sad
+1160,None,Forest Moss Green,Black - Overweight,Red Round Shades,No Hat,Happy
+1161,None,Lavender Dusk Purple,Black,Eye Patch,Leprechaun,Surprised
+1162,Bow Tie,Sunlit Gold,Black - Overweight,White Shades,Elvis,Happy
+1163,Scarf,Sunlit Gold,Tan - Overweight,White Shades,Afro,Toothy
+1164,None,Rose Quartz Pink,Black,Red Round Shades,No Hat,Panting
+1165,Gold Chain,Midnight Sapphire Blue,Black,Normal,Slickback,Mustache
+1166,Gold Chain,Lavender Dusk Purple,Tan,Red Round Shades,No Hat,Toothy
+1167,Scarf,Midnight Sapphire Blue,Lilac,Nouns Glasses,Sobrero,Happy
+1168,Sickle,Sunlit Gold,Lilac,White Round Shades,Sobrero,Surprised
+1169,Red Bandana,Seashell Pink,Blue,Gold Shades,No Hat,Sad
+1170,Neck Tattoo,Stormcloud Grey,Black,Red Shades,Headphones,Panting
+1171,Bow Tie,Lavender Dusk Purple,Black,White Shades,Afro,Drooling
+1172,None,Sunlit Gold,Cream,Normal,Afro,Toothy
+1173,Scarf,Forest Moss Green,White,Normal,Headband,Panting
+1174,Scarf,Midnight Sapphire Blue,Cream,White Round Shades,No Hat,Toothy
+1175,Gold Chain,Lavender Dusk Purple,Tan,Red Shades,Pirate,Panting
+1176,Samurai Sword,Seashell Pink,Blue,White Round Shades,Afro,Toothy
+1177,Bow Tie,Seashell Pink,Black,Red Shades,No Hat,Toothy
+1178,None,Rose Quartz Pink,Black,White Shades,Wizard,Surprised
+1179,Gold Chain,Sunlit Gold,Black,Red Shades,Slickback,Vampire
+1180,None,Rose Quartz Pink,Black,White Shades,No Hat,Surprised
+1181,None,Stormcloud Grey,Black,Drowsy,Pirate,Panting
+1182,Scarf,Stormcloud Grey,Cream,Normal,Pirate,Toothy
+1183,Scarf,Seashell Pink,Tan,White Shades,Afro,Toothy
+1184,None,Spiced Orange,Sable,Normal,Headphones,Toothy
+1185,Scarf,Seashell Pink,Black - Overweight,Normal,Slickback,Sad
+1186,Scarf,Spiced Orange,Chocolate,Normal,Pirate,Sad
+1187,Scarf,Stormcloud Grey,Black,White Round Shades,Beret,Surprised
+1188,None,Midnight Sapphire Blue,Tan - Overweight,Goggles,Headphones,Happy
+1189,Wings,Sunlit Gold,Cream,White Shades,No Hat,Panting
+1190,None,Spiced Orange,Cream,Normal,No Hat,Surprised
+1191,Neck Tattoo,Forest Moss Green,Tan,White Shades,Elvis,Toothy
+1192,None,Spiced Orange,Black - Overweight,Cyclop,Cowboy,Toothy
+1193,None,Sunlit Gold,Cream,White Round Shades,No Hat,Mustache
+1194,None,Outer Space,Cream,White Shades,Napoleon,Sad
+1195,Scarf,Seashell Pink,Tan,Normal,Headband,Mustache
+1196,Red Bandana,Spiced Orange,Black,White Shades,No Hat,Happy
+1197,Bow Tie,Lavender Dusk Purple,Black,Normal,Sobrero,Happy
+1198,Red Bandana,Midnight Sapphire Blue,Black,White Shades,No Hat,Happy
+1199,Gold Chain,Seashell Pink,Black - Overweight,Normal,Party Hat,Vampire
+1200,None,Rose Quartz Pink,Blue,Eye Patch,Cowboy,Toothy
+1201,Red Bandana,Forest Moss Green,Black,Normal,Elvis,Panting
+1202,None,Spiced Orange,Black,Red Shades,Slickback,Toothy
+1203,Scarf,Lavender Dusk Purple,Cream,Drowsy,Wizard,Toothy
+1204,None,Forest Moss Green,Black,Red Round Shades,No Hat,Surprised
+1205,None,Stormcloud Grey,Black,Normal,Afro,Mustache
+1206,Scarf,Stormcloud Grey,Black - Overweight,Eye Patch,Dreads,Toothy
+1207,Tie,Sunlit Gold,Lilac,White Shades,Cowboy,Mustache
+1208,Gold Chain,Stormcloud Grey,Tan - Overweight,VR Headset,Headphones,Toothy
+1209,Tie,Forest Moss Green,Tan,Normal,Headphones,Toothy
+1210,None,Spiced Orange,Black,White Round Shades,Wizard,Toothy
+1211,None,Stormcloud Grey,White,Normal,Dreads,Sad
+1212,Scarf,Lavender Dusk Purple,White,Normal,No Hat,Happy
+1213,None,Rose Quartz Pink,Sable,Drowsy,Slickback,Vampire
+1214,Red Bandana,Rose Quartz Pink,Black - Overweight,White Shades,No Hat,Feral
+1215,Red Bandana,Seashell Pink,Black,Red Round Shades,Elvis,Sad
+1216,Scarf,Forest Moss Green,Lilac,VR Headset,Sobrero,Feral
+1217,None,Midnight Sapphire Blue,White,Goggles,No Hat,Drooling
+1218,Gold Chain,Stormcloud Grey,Chocolate,Drowsy Laser Eyes,No Hat,Happy
+1219,None,Rose Quartz Pink,Tan,White Round Shades,Pirate,Toothy
+1220,Red Bandana,Lavender Dusk Purple,Tan,Red Shades,No Hat,Panting
+1221,Gold Chain,Seashell Pink,Tan,Red Round Shades,Pirate,Surprised
+1222,Red Bandana,Sunlit Gold,White,White Round Shades,Sobrero,Vampire
+1223,Bow Tie,Forest Moss Green,Black,Goggles,Afro,Toothy
+1224,Gold Chain,Forest Moss Green,Blue,Normal,Elvis,Surprised
+1225,Bow Tie,Spiced Orange,Black,Normal,No Hat,Happy
+1226,Gold Chain,Forest Moss Green,Tan,Normal,No Hat,Drooling
+1227,Red Bandana,Rose Quartz Pink,Black,Normal,Bone,Surprised
+1228,Tie,Stormcloud Grey,Black - Overweight,Eye Patch,No Hat,Surprised
+1229,None,Midnight Sapphire Blue,Tan,Eye Patch,No Hat,Happy
+1230,Bow Tie,Sunlit Gold,Black,3-D Glasses,Headphones,Surprised
+1231,Earrings,Forest Moss Green,Tan - Overweight,Concerned,Cylinder,Sad
+1232,None,Midnight Sapphire Blue,Tan,VR Headset,No Hat,Vampire
+1233,None,Forest Moss Green,Black,Normal,Sobrero,Sad
+1234,Tie,Spiced Orange,Sable,Normal,Dreads,Toothy
+1235,None,Lavender Dusk Purple,Black,Cyclop,Napoleon,Sad
+1236,None,Seashell Pink,Black,White Round Shades,Pirate,Bubble Gum
+1237,Scarf,Lavender Dusk Purple,White,Goggles,Headphones,Sad
+1238,None,Sunlit Gold,Tan,White Round Shades,Bone,Mustache
+1239,None,Seashell Pink,Black,White Shades,Party Hat,Sad
+1240,None,Forest Moss Green,Cream,Normal,Cylinder,Surprised
+1241,None,Lavender Dusk Purple,Lilac,White Shades,No Hat,Toothy
+1242,Gold Chain,Spiced Orange,Sable,Normal,Wizard,Happy
+1243,Samurai Sword,Spiced Orange,Black,Cyclop,Sobrero,Toothy
+1244,None,Sunlit Gold,Chocolate,Goggles,Party Hat,Toothy
+1245,Scarf,Seashell Pink,Black - Overweight,Laser Eyes,Devil Horns,Happy
+1246,Bow Tie,Seashell Pink,Black - Overweight,White Shades,Pirate,Sad
+1247,None,Seashell Pink,White,Normal,Napoleon,Drooling
+1248,Scarf,Lavender Dusk Purple,Black,Nouns Glasses,No Hat,Sad
+1249,Gold Chain,Rose Quartz Pink,Tan,Concerned,Afro,Toothy
+1250,None,Rose Quartz Pink,Tan - Overweight,Red Round Shades,No Hat,Toothy
+1251,None,Forest Moss Green,Tan,Drowsy,Party Hat,Surprised
+1252,None,Sunlit Gold,Black - Overweight,Drowsy,Cowboy,Drooling
+1253,None,Stormcloud Grey,White,Normal,Afro,Happy
+1254,Scarf,Lavender Dusk Purple,Cream,Red Shades,Party Hat,Happy
+1255,Scarf,Midnight Sapphire Blue,Blue,Normal,No Hat,Sad
+1256,Gold Chain,Midnight Sapphire Blue,Zombie,Normal,Party Hat,Vampire
+1257,Red Bandana,Rose Quartz Pink,Tan,Gold Shades,No Hat,Happy
+1258,None,Midnight Sapphire Blue,Chocolate,Concerned,Sobrero,Mustache
+1259,Gold Chain,Sunlit Gold,Chocolate,Normal,Cowboy,Happy
+1260,None,Lavender Dusk Purple,Black,Eye Patch,No Hat,Drooling
+1261,Wings,Rose Quartz Pink,Tan,Red Round Shades,Headphones,Sad
+1262,Scarf,Seashell Pink,Tan,Normal,Napoleon,Toothy
+1263,Scarf,Forest Moss Green,Black - Overweight,White Shades,Wizard,Sad
+1264,Gold Chain,"Red, White, and Blue",Black,Goggles,Party Hat,Surprised
+1265,None,Spiced Orange,Black,Eye Patch,Beret,Surprised
+1266,None,Lavender Dusk Purple,Black,Red Shades,Cowboy,Mustache
+1267,Scarf,Midnight Sapphire Blue,Sable,White Round Shades,No Hat,Feral
+1268,None,"Red, White, and Blue",Chocolate,White Shades,Headphones,Vampire
+1269,Scarf,Sunlit Gold,Black - Overweight,Normal,Cylinder,Happy
+1270,Red Bandana,Spiced Orange,Chocolate,3-D Glasses,Cylinder,Surprised
+1271,Gold Chain,Stormcloud Grey,Black,White Shades,No Hat,Happy
+1272,Bow Tie,Forest Moss Green,Tan - Overweight,Drowsy Cyclop,Cylinder,Happy
+1273,None,Midnight Sapphire Blue,Black,Red Shades,Pirate,Sad
+1274,None,Forest Moss Green,Cream,Concerned,Elvis,Happy
+1275,None,Sunlit Gold,Black - Overweight,Red Shades,Leprechaun,Surprised
+1276,Scarf,Spiced Orange,Tan,Normal,Headband,Bubble Gum
+1277,None,Sunlit Gold,Black,Normal,Party Hat,Drooling
+1278,Gold Chain,Sunlit Gold,Black,Normal,Afro,Bubble Gum
+1279,Wings,Stormcloud Grey,Tan - Overweight,Cyclop,Party Hat,Happy
+1280,None,Stormcloud Grey,Black,Red Round Shades,Afro,Panting
+1281,Scarf,Stormcloud Grey,Black,Eye Patch,Slickback,Mustache
+1282,None,Forest Moss Green,Black,Red Shades,Top Hat,Toothy
+1283,None,Sunlit Gold,White,Eye Patch,Bone,Toothy
+1284,Red Bandana,Forest Moss Green,Black - Overweight,Gold Shades,Party Hat,Mustache
+1285,Bow Tie,Rose Quartz Pink,Tan,White Shades,Headphones,Toothy
+1286,Scarf,Forest Moss Green,Black,Drowsy,Slickback,Bubble Gum
+1287,Bow Tie,Rose Quartz Pink,Blue,Gold Shades,Cylinder,Drooling
+1288,Tie,Rose Quartz Pink,Black,Normal,Pirate,Surprised
+1289,None,Lavender Dusk Purple,Black - Overweight,Normal,Dreads,Toothy
+1290,Red Bandana,Rose Quartz Pink,Tan - Overweight,Red Shades,Afro,Surprised
+1291,Scarf,Sunlit Gold,Black,Normal,Pirate,Toothy
+1292,Neck Tattoo,Rose Quartz Pink,Tan,Red Shades,Pirate,Happy
+1293,Gold Chain,Stormcloud Grey,Black,3-D Glasses,Dreads,Toothy
+1294,None,Sunlit Gold,Cream,Normal,Baseball Cap,Toothy
+1295,None,Forest Moss Green,Black - Overweight,3-D Glasses,No Hat,Sad
+1296,Scarf,Sunlit Gold,Sable,Normal,No Hat,Toothy
+1297,Neck Tattoo,Stormcloud Grey,Black,White Shades,Dreads,Happy
+1298,Wings,Sunlit Gold,Black,White Round Shades,Sobrero,Sad
+1299,Scarf,Forest Moss Green,Black,White Shades,No Hat,Toothy
+1300,Bow Tie,Sunlit Gold,Black - Overweight,White Shades,Headband,Happy
+1301,None,Lavender Dusk Purple,Black - Overweight,Normal,Cylinder,Toothy
+1302,Tie,Rose Quartz Pink,Tan,Gold Shades,Pirate,Surprised
+1303,None,Rose Quartz Pink,Black,Drowsy,Headphones,Sad
+1304,Neck Tattoo,Forest Moss Green,Tan,Red Round Shades,Cylinder,Bubble Gum
+1305,None,Rose Quartz Pink,Black - Overweight,White Shades,No Hat,Bubble Gum
+1306,Gold Chain,Rose Quartz Pink,Tan - Overweight,Concerned,Pirate,Happy
+1307,Red Bandana,Lavender Dusk Purple,Sable,Eye Patch,No Hat,Sad
+1308,None,Forest Moss Green,White,Eye Patch,No Hat,Toothy
+1309,None,Seashell Pink,Black - Overweight,White Round Shades,No Hat,Happy
+1310,None,Stormcloud Grey,Black - Overweight,White Shades,Elvis,Sad
+1311,Scarf,Stormcloud Grey,Black,White Shades,Dreads,Vampire
+1312,Scarf,Midnight Sapphire Blue,Black,White Shades,No Hat,Surprised
+1313,None,Sunlit Gold,Black,White Shades,Dreads,Drooling
+1314,Red Bandana,Rose Quartz Pink,Black,Normal,No Hat,Drooling
+1315,Earrings,Spiced Orange,Tan,White Shades,No Hat,Happy
+1316,Red Bandana,Sunlit Gold,Tan - Overweight,Normal,Sobrero,Happy
+1317,None,Spiced Orange,Sable,White Round Shades,Sobrero,Surprised
+1318,Gold Chain,Lavender Dusk Purple,Tan - Overweight,Eye Patch,Baseball Cap,Drooling
+1319,None,Stormcloud Grey,Tan,White Round Shades,No Hat,Vampire
+1320,Scarf,Forest Moss Green,Blue,Normal,Headphones,Toothy
+1321,Red Bandana,Stormcloud Grey,Black - Overweight,White Round Shades,Angel Halo,Happy
+1322,Scarf,Rose Quartz Pink,Black,White Shades,Afro,Happy
+1323,Tie,Rose Quartz Pink,Black - Overweight,3-D Glasses,Cowboy,Feral
+1324,None,Sunlit Gold,Tan,White Round Shades,Slickback,Surprised
+1325,Gold Chain,Stormcloud Grey,Chocolate,Eye Patch,Elvis,Drooling
+1326,Bow Tie,Rose Quartz Pink,Tan,Eye Patch,No Hat,Bubble Gum
+1327,None,Midnight Sapphire Blue,Black - Overweight,White Shades,No Hat,Bubble Gum
+1328,Bow Tie,Stormcloud Grey,Black,Red Round Shades,No Hat,Panting
+1329,Bow Tie,Rose Quartz Pink,Chocolate,White Shades,Fire,Sad
+1330,Scarf,Spiced Orange,Cream,3-D Glasses,Cowboy,Bubble Gum
+1331,Red Bandana,Rose Quartz Pink,Chocolate,Goggles,Slickback,Sad
+1332,Tie,Forest Moss Green,Sable,Eye Patch,Headphones,Vampire
+1333,None,Forest Moss Green,Black - Overweight,White Shades,Elvis,Panting
+1334,Samurai Sword,Stormcloud Grey,Black - Overweight,Normal,No Hat,Sad
+1335,Scarf,Lavender Dusk Purple,Black - Overweight,Red Round Shades,No Hat,Drooling
+1336,Scarf,Spiced Orange,Tan,Eye Patch,Cylinder,Toothy
+1337,None,Midnight Sapphire Blue,Black,White Shades,No Hat,Sad
+1338,Bow Tie,Midnight Sapphire Blue,Black,Eye Patch,Elvis,Surprised
+1339,None,Rose Quartz Pink,Black - Overweight,Concerned,No Hat,Toothy
+1340,Tie,Lavender Dusk Purple,Black - Overweight,Normal,No Hat,Panting
+1341,None,Midnight Sapphire Blue,Chocolate,Red Round Shades,Elvis,Toothy
+1342,None,Lavender Dusk Purple,Tan,Red Round Shades,Elvis,Panting
+1343,Red Bandana,Sunlit Gold,White,Drowsy,Party Hat,Happy
+1344,Bow Tie,Spiced Orange,Chocolate,White Round Shades,No Hat,Mustache
+1345,None,Stormcloud Grey,Sable,Goggles,Cylinder,Happy
+1346,None,Spiced Orange,Chocolate,White Round Shades,Headphones,Happy
+1347,None,Stormcloud Grey,Chocolate,White Shades,Headband,Surprised
+1348,None,Sunlit Gold,Blue,White Round Shades,Pirate,Drooling
+1349,None,Seashell Pink,Tan,Normal,Party Hat,Toothy
+1350,None,Lavender Dusk Purple,Black,Red Shades,Cowboy,Panting
+1351,Bow Tie,Seashell Pink,Blue,White Shades,Headphones,Sad
+1352,Bow Tie,Stormcloud Grey,Sable,Normal,No Hat,Drooling
+1353,None,Stormcloud Grey,White,Drowsy,Sobrero,Sad
+1354,None,Sunlit Gold,Black - Overweight,Drowsy,No Hat,Toothy
+1355,None,Sunlit Gold,Black,Normal,Afro,Toothy
+1356,Cape,Rose Quartz Pink,Chocolate,Red Shades,Angel Halo,Happy
+1357,Gold Chain,Seashell Pink,Tan - Overweight,White Shades,Cowboy,Bubble Gum
+1358,None,Sunlit Gold,Cream,Normal,No Hat,Vampire
+1359,Bow Tie,Midnight Sapphire Blue,Black - Overweight,Eye Patch,Afro,Toothy
+1360,None,Midnight Sapphire Blue,Chocolate,Normal,Cylinder,Surprised
+1361,Scarf,Lavender Dusk Purple,Black - Overweight,Drowsy,No Hat,Feral
+1362,None,Sunlit Gold,Black,Eye Patch,Headband,Drooling
+1363,None,Rose Quartz Pink,Blue,White Shades,No Hat,Mustache
+1364,None,Spiced Orange,Black - Overweight,White Shades,Pirate,Surprised
+1365,None,Spiced Orange,Cream,Goggles,No Hat,Bubble Gum
+1366,Bow Tie,Spiced Orange,Lilac,Normal,Party Hat,Sad
+1367,Tie,Stormcloud Grey,Sable,Concerned,Elvis,Happy
+1368,None,Rose Quartz Pink,Tan,3-D Glasses,Headband,Happy
+1369,Scarf,Seashell Pink,Cream,Red Round Shades,Pirate,Sad
+1370,None,Seashell Pink,White,Normal,Headphones,Bubble Gum
+1371,None,Forest Moss Green,Blue,Nouns Glasses,Party Hat,Happy
+1372,Cape,Spiced Orange,White,Drowsy Laser Eyes,No Hat,Toothy
+1373,Bow Tie,Spiced Orange,Chocolate,White Round Shades,Party Hat,Happy
+1374,Gold Chain,Sunlit Gold,Black,Normal,Party Hat,Happy
+1375,Scarf,Forest Moss Green,Black - Overweight,Laser Eyes,Cylinder,Sad
+1376,Neck Tattoo,Stormcloud Grey,Sable,Normal,Elvis,Drooling
+1377,Scarf,Seashell Pink,Tan,Red Round Shades,Headband,Surprised
+1378,None,Midnight Sapphire Blue,Cream,White Shades,Leprechaun,Surprised
+1379,Red Bandana,Stormcloud Grey,White,Normal,Sobrero,Happy
+1380,None,Forest Moss Green,Black - Overweight,White Shades,No Hat,Happy
+1381,Gold Chain,Sunlit Gold,Black - Overweight,Eye Patch,No Hat,Happy
+1382,Scarf,Lavender Dusk Purple,Tan,Eye Patch,Party Hat,Bubble Gum
+1383,Red Bandana,Spiced Orange,Tan,Goggles,Slickback,Toothy
+1384,None,Forest Moss Green,Black - Overweight,White Shades,No Hat,Feral
+1385,None,Spiced Orange,Black,White Shades,No Hat,Happy
+1386,None,Seashell Pink,White,Normal,No Hat,Vampire
+1387,None,Stormcloud Grey,Black - Overweight,White Shades,Sobrero,Happy
+1388,None,Stormcloud Grey,Blue,Normal,Cylinder,Surprised
+1389,None,Rose Quartz Pink,Black - Overweight,Eye Patch,Dreads,Toothy
+1390,None,Stormcloud Grey,Tan,White Shades,Top Hat,Surprised
+1391,None,Stormcloud Grey,Black,White Shades,Slickback,Bubble Gum
+1392,Red Bandana,Forest Moss Green,Chocolate,Normal,No Hat,Surprised
+1393,Red Bandana,Forest Moss Green,Cream,Normal,Headband,Toothy
+1394,None,Spiced Orange,Black - Overweight,White Shades,No Hat,Toothy
+1395,None,Rose Quartz Pink,Cream,Normal,Cowboy,Surprised
+1396,None,Seashell Pink,Black,Normal,Cowboy,Toothy
+1397,None,Midnight Sapphire Blue,Cream,White Shades,Pirate,Happy
+1398,Gold Chain,Midnight Sapphire Blue,White,Eye Patch,Pirate,Sad
+1399,None,Seashell Pink,Blue,Nouns Glasses,Pirate,Happy
+1400,None,Spiced Orange,Black,Concerned,Headband,Drooling
+1401,Scarf,Rose Quartz Pink,Black,Normal,No Hat,Panting
+1402,None,Spiced Orange,White,White Shades,No Hat,Surprised
+1403,Gold Chain,Seashell Pink,Black,Red Round Shades,No Hat,Toothy
+1404,Scarf,Stormcloud Grey,Black - Overweight,Concerned,No Hat,Bubble Gum
+1405,Scarf,Rose Quartz Pink,Tan,Normal,No Hat,Toothy
+1406,Scarf,Midnight Sapphire Blue,Cream,Concerned,Cylinder,Mustache
+1407,None,Rose Quartz Pink,Blue,White Shades,Afro,Happy
+1408,Samurai Sword,Spiced Orange,Black,Eye Patch,Cowboy,Happy
+1409,None,Rose Quartz Pink,Blue,Eye Patch,Sobrero,Bubble Gum
+1410,None,Stormcloud Grey,Sable,Eye Patch,Headphones,Happy
+1411,Tie,Rose Quartz Pink,Tan - Overweight,White Shades,Angel Halo,Surprised
+1412,None,Rose Quartz Pink,Black,Drowsy,Cowboy,Happy
+1413,Gold Chain,Seashell Pink,Black,Red Shades,Afro,Mustache
+1414,None,Stormcloud Grey,Tan,White Shades,Afro,Panting
+1415,Bow Tie,Midnight Sapphire Blue,Tan,Red Shades,Headphones,Mustache
+1416,Tie,Stormcloud Grey,Black - Overweight,Gold Shades,Baseball Cap,Happy
+1417,Bow Tie,Stormcloud Grey,Tan - Overweight,Goggles,Elvis,Toothy
+1418,None,Midnight Sapphire Blue,Black,Normal,Sobrero,Surprised
+1419,Scarf,Rose Quartz Pink,Black,White Shades,Afro,Toothy
+1420,None,Forest Moss Green,Black,White Round Shades,Elvis,Bubble Gum
+1421,Red Bandana,Spiced Orange,Black,Red Round Shades,Sobrero,Happy
+1422,None,Sunlit Gold,Cream,Normal,No Hat,Surprised
+1423,None,Stormcloud Grey,Cream,Laser Eyes,Cylinder,Panting
+1424,Gold Chain,Stormcloud Grey,Tan,Normal,No Hat,Toothy
+1425,Scarf,Sunlit Gold,Tan - Overweight,White Shades,No Hat,Happy
+1426,Scarf,Stormcloud Grey,Tan - Overweight,Normal,Headband,Toothy
+1427,None,Midnight Sapphire Blue,Blue,White Shades,Afro,Toothy
+1428,Wings,Sunlit Gold,Tan,Normal,Bone,Feral
+1429,None,Spiced Orange,Tan - Overweight,Eye Patch,Pirate,Happy
+1430,None,Seashell Pink,Blue,Nouns Glasses,Party Hat,Toothy
+1431,Scarf,Sunlit Gold,Tan - Overweight,3-D Glasses,Headband,Toothy
+1432,None,Spiced Orange,Chocolate,Nouns Glasses,Cylinder,Sad
+1433,Red Bandana,Forest Moss Green,Tan,Concerned,No Hat,Panting
+1434,None,Midnight Sapphire Blue,Black,White Round Shades,Afro,Mustache
+1435,None,Midnight Sapphire Blue,Black,Eye Patch,Afro,Drooling
+1436,Red Bandana,Sunlit Gold,Black - Overweight,Red Shades,Slickback,Happy
+1437,Gold Chain,Lavender Dusk Purple,Chocolate,Normal,Cowboy,Happy
+1438,None,Lavender Dusk Purple,Tan - Overweight,White Round Shades,No Hat,Mustache
+1439,None,Stormcloud Grey,Cream,Goggles,No Hat,Happy
+1440,Scarf,Forest Moss Green,Lilac,3-D Glasses,No Hat,Happy
+1441,Tie,Stormcloud Grey,White,Concerned,Sobrero,Toothy
+1442,Red Bandana,Spiced Orange,Black - Overweight,Red Shades,No Hat,Toothy
+1443,Bow Tie,Forest Moss Green,Black,Cyclop,Afro,Happy
+1444,None,Sunlit Gold,Lilac,Normal,Afro,Toothy
+1445,None,Rose Quartz Pink,Tan - Overweight,Drowsy,Headphones,Surprised
+1446,Tie,Lavender Dusk Purple,Black - Overweight,Normal,Headphones,Mustache
+1447,Bow Tie,Forest Moss Green,Black - Overweight,White Shades,No Hat,Panting
+1448,Scarf,Forest Moss Green,Black,Normal,Slickback,Happy
+1449,Scarf,Sunlit Gold,Cream,Red Shades,Elvis,Happy
+1450,None,Stormcloud Grey,Lilac,Normal,Cowboy,Panting
+1451,Sickle,Stormcloud Grey,Black,Goggles,Pirate,Drooling
+1452,None,Lavender Dusk Purple,Cream,Goggles,No Hat,Toothy
+1453,Bow Tie,Rose Quartz Pink,Cream,White Round Shades,No Hat,Happy
+1454,Red Bandana,Seashell Pink,Cream,Eye Patch,Elvis,Toothy
+1455,Scarf,Seashell Pink,Black,Drowsy,No Hat,Happy
+1456,None,Lavender Dusk Purple,Black,Concerned,Wizard,Panting
+1457,Bow Tie,Seashell Pink,Blue,Cyclop,No Hat,Surprised
+1458,Scarf,Rose Quartz Pink,Black,White Shades,Headband,Mustache
+1459,None,Seashell Pink,White,White Shades,No Hat,Toothy
+1460,Red Bandana,Sunlit Gold,Black - Overweight,Normal,No Hat,Mustache
+1461,None,Spiced Orange,Tan,Nouns Glasses,Party Hat,Vampire
+1462,Neck Tattoo,Spiced Orange,Black,White Shades,Cylinder,Bubble Gum
+1463,None,Midnight Sapphire Blue,Black - Overweight,Eye Patch,No Hat,Vampire
+1464,Neck Tattoo,Midnight Sapphire Blue,Black,Cyclop,Sobrero,Sad
+1465,Red Bandana,Stormcloud Grey,Black,White Round Shades,No Hat,Mustache
+1466,Gold Chain,Midnight Sapphire Blue,Sable,White Shades,Cowboy,Feral
+1467,Red Bandana,Lavender Dusk Purple,Black,White Shades,Sobrero,Surprised
+1468,None,Sunlit Gold,Tan - Overweight,Red Shades,Devil Horns,Sad
+1469,None,Stormcloud Grey,Tan - Overweight,White Shades,Headphones,Vampire
+1470,Bow Tie,Spiced Orange,Blue,Normal,Party Hat,Happy
+1471,Bow Tie,Rose Quartz Pink,Lilac,White Shades,No Hat,Toothy
+1472,None,Stormcloud Grey,Lilac,Goggles,Bone,Surprised
+1473,Bow Tie,Seashell Pink,Black,Cyclop,Sobrero,Bubble Gum
+1474,None,Stormcloud Grey,White,White Shades,Afro,Feral
+1475,Bow Tie,Sunlit Gold,Tan - Overweight,Normal,Slickback,Happy
+1476,Scarf,Lavender Dusk Purple,White,Red Round Shades,No Hat,Surprised
+1477,None,Seashell Pink,Chocolate,White Round Shades,Angel Halo,Happy
+1478,Scarf,Seashell Pink,Black,Red Shades,Headband,Toothy
+1479,None,Lavender Dusk Purple,Sable,White Round Shades,Wizard,Bubble Gum
+1480,None,Stormcloud Grey,Black - Overweight,Drowsy Laser Eyes,Leprechaun,Drooling
+1481,Scarf,Seashell Pink,Black - Overweight,White Shades,Dreads,Surprised
+1482,Scarf,Sunlit Gold,Black - Overweight,White Round Shades,Headband,Toothy
+1483,Red Bandana,Sunlit Gold,Black - Overweight,Laser Eyes,Cowboy,Happy
+1484,None,Sunlit Gold,Tan,Drowsy,Elvis,Toothy
+1485,None,Sunlit Gold,Black - Overweight,VR Headset,Beret,Bubble Gum
+1486,Scarf,Forest Moss Green,Black - Overweight,Normal,Cowboy,Toothy
+1487,Gold Chain,Midnight Sapphire Blue,Blue,Drowsy,Cylinder,Panting
+1488,Bow Tie,Lavender Dusk Purple,Black,Normal,Party Hat,Mustache
+1489,Scarf,Midnight Sapphire Blue,Cream,White Round Shades,No Hat,Happy
+1490,Bow Tie,Lavender Dusk Purple,Black,White Shades,Slickback,Drooling
+1491,None,Forest Moss Green,White,Cyclop,Wizard,Surprised
+1492,None,Lavender Dusk Purple,Tan,White Shades,Afro,Bubble Gum
+1493,Tie,Sunlit Gold,Tan,Normal,Slickback,Surprised
+1494,None,"Red, White, and Blue",Sable,Concerned,Headband,Sad
+1495,None,Stormcloud Grey,Black - Overweight,Normal,No Hat,Mustache
+1496,Bow Tie,Lavender Dusk Purple,Blue,Red Shades,Fire,Feral
+1497,None,Forest Moss Green,Cream,Red Shades,No Hat,Happy
+1498,Bow Tie,Rose Quartz Pink,Black - Overweight,Red Shades,Sobrero,Toothy
+1499,None,Midnight Sapphire Blue,Tan,Normal,Cylinder,Toothy

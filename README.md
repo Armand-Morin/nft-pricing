@@ -1,0 +1,1 @@
+# Pricing an nft using attributes
