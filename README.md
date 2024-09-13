@@ -66,7 +66,7 @@ To predict the trade price of a Fit Frenchie, consider the following approaches:
 
 3. **Similar Fit Frenchie Comparison**:
    - **Similarity-Based Pricing**: Identify Fit Frenchies with similar attributes and use their trade prices to estimate the price for the target Frenchie.
-   - **Averaging Approach**: Average the trade prices of similar Fit Frenchies to get a more accurate estimate for the target Fit Frenchie. The `knn.ipynb` is showing how to find the nft with the most similar attriburtes and pair, triple etc ... attributes. Then we get the average of tohose and i weight the average accross all similar clusters to find the price of the nft.
+   - **Averaging Approach**: Average the trade prices of similar Fit Frenchies to get a more accurate estimate for the target Fit Frenchie. The `knn.ipynb` is showing how to find the nft with the most similar attriburtes and pair, triple etc ... attributes. Then we get the average of those and i weight the average accross all similar clusters to find the price of the nft.
    ```
    Final weighted normalized price: 1.46
    Most recent floor price: 0.93
